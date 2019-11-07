@@ -1,1002 +1,1002 @@
 imagepath, question, answer
-./train2014/COCO_train2014_000000487025.jpg,What shape is the bench seat ?,oval
-./train2014/COCO_train2014_000000487025.jpg,Is there a shadow ?,yes
-./train2014/COCO_train2014_000000487025.jpg,Is this one bench or multiple benches ?,1
-./train2014/COCO_train2014_000000078077.jpg,Is this a modern train ?,no
-./train2014/COCO_train2014_000000078077.jpg,What color is the stripe on the train ?,white
-./train2014/COCO_train2014_000000078077.jpg,What is on the other side of the train ?,trees
-./train2014/COCO_train2014_000000501867.jpg,Is the bus driver on any kind of antidepressant medication ?,no
-./train2014/COCO_train2014_000000501867.jpg,Is the bus moving ?,yes
-./train2014/COCO_train2014_000000501867.jpg,What color is the bus ?,red
-./train2014/COCO_train2014_000000529524.jpg,Are these items for sale ?,yes
-./train2014/COCO_train2014_000000529524.jpg,What is for sale under this tent ?,every vegetable
-./train2014/COCO_train2014_000000529524.jpg,Is this a grocery store ?,no
-./train2014/COCO_train2014_000000497494.jpg,Is the dog on the bed ?,black lab
-./train2014/COCO_train2014_000000497494.jpg,What is in the frame over the bed ?,picture of 2 men
-./train2014/COCO_train2014_000000497494.jpg,Where is the dog ?,bed
-./train2014/COCO_train2014_000000166702.jpg,What color are the clock hands ?,gold
-./train2014/COCO_train2014_000000166702.jpg,What direction is the weathervane pointing ?,southeast
-./train2014/COCO_train2014_000000166702.jpg,What term describes a bereaved wife and the walk at the top of this building ?,widow
-./train2014/COCO_train2014_000000318857.jpg,Where are the magazines in this picture ?,on stool
-./train2014/COCO_train2014_000000318857.jpg,What animal is on the man's lap ?,kitten
-./train2014/COCO_train2014_000000318857.jpg,What's in the man's right hand ?,nothing
-./train2014/COCO_train2014_000000480082.jpg,What kind of toppings are on this pizza ?,cheese and spinach
-./train2014/COCO_train2014_000000480082.jpg,What is the specific name of this particular pizza recipe ?,margherita
-./train2014/COCO_train2014_000000480082.jpg,Is this edible ?,yes
-./train2014/COCO_train2014_000000423964.jpg,What city is this taken in ?,venice
-./train2014/COCO_train2014_000000423964.jpg,Based on the size of the wake what is the approximate speed of the boat ?,5 mph
-./train2014/COCO_train2014_000000423964.jpg,Are there any water skiers in the picture ?,no
-./train2014/COCO_train2014_000000081074.jpg,What color is the desk ?,brown
-./train2014/COCO_train2014_000000081074.jpg,What color are the laptops ?,black
-./train2014/COCO_train2014_000000081074.jpg,What color is the keyboard ?,white
-./train2014/COCO_train2014_000000234391.jpg,How does the water appear ?,calm
-./train2014/COCO_train2014_000000234391.jpg,What appears to be growing in the back of the scene ?,bird
-./train2014/COCO_train2014_000000234391.jpg,Is the bird by water ?,no
-./train2014/COCO_train2014_000000247712.jpg,What color is this person's shirt ?,red
-./train2014/COCO_train2014_000000247712.jpg,How many skateboards in the photo ?,2
-./train2014/COCO_train2014_000000247712.jpg,What color is the man's pants ?,black
-./train2014/COCO_train2014_000000535130.jpg,Why is the woman's head blurry ?,to block face
-./train2014/COCO_train2014_000000535130.jpg,Who is wearing a diamond ring ?,doctor
-./train2014/COCO_train2014_000000535130.jpg,What kind of room is this ?,doctor's office
-./train2014/COCO_train2014_000000358405.jpg,What kind of drink is in the glass the lady is holding ?,wine
-./train2014/COCO_train2014_000000358405.jpg,What color is the man's shirt ?,purple
-./train2014/COCO_train2014_000000358405.jpg,Are these people, most likely,  experiencing a work day ?,no
-./train2014/COCO_train2014_000000464605.jpg,Is the person on the snowboard a man ?,yes
-./train2014/COCO_train2014_000000464605.jpg,How many skiers are in the air ?,1
-./train2014/COCO_train2014_000000464605.jpg,What color jacket is this person wearing ?,white
-./train2014/COCO_train2014_000000272480.jpg,How many photos are shown ?,4
-./train2014/COCO_train2014_000000272480.jpg,What is pictured in the upper left photo ?,kitchen
-./train2014/COCO_train2014_000000272480.jpg,What kind of rooms are shown ?,kitchens
-./train2014/COCO_train2014_000000291855.jpg,Is this a private bus ?,no
-./train2014/COCO_train2014_000000291855.jpg,Where is the blue bike ?,on front of bus
-./train2014/COCO_train2014_000000291855.jpg,What number bus is pictured ?,4080
-./train2014/COCO_train2014_000000175121.jpg,Is there a white sign in the distance ?,road closed
-./train2014/COCO_train2014_000000175121.jpg,Is the road open ?,no
-./train2014/COCO_train2014_000000175121.jpg,What kind of car is parked ?,bus
-./train2014/COCO_train2014_000000131780.jpg,What is the theme of the kites' designs ?,sea animals
-./train2014/COCO_train2014_000000131780.jpg,What is on top of the SUV ?,storage unit
-./train2014/COCO_train2014_000000131780.jpg,Is there a man dressed in blue ?,yes
-./train2014/COCO_train2014_000000542165.jpg,What color are the dogs eyes ?,green and blue
-./train2014/COCO_train2014_000000542165.jpg,Does this picture look scary ?,yes
-./train2014/COCO_train2014_000000542165.jpg,Can you see the dog's teeth ?,yes
-./train2014/COCO_train2014_000000245609.jpg,What sort of structures are similar in the background ?,gazebos
-./train2014/COCO_train2014_000000245609.jpg,What is this person doing ?,falling
-./train2014/COCO_train2014_000000245609.jpg,Did the person fall off his surfboard ?,yes
-./train2014/COCO_train2014_000000129726.jpg,What is he throwing ?,frisbee
-./train2014/COCO_train2014_000000129726.jpg,Does the man have a beard ?,yes
-./train2014/COCO_train2014_000000129726.jpg,What color is the man's shirt ?,red
-./train2014/COCO_train2014_000000530160.jpg,Is this person holding an apple ?,yes
-./train2014/COCO_train2014_000000530160.jpg,Is apple ripe ?,yes
-./train2014/COCO_train2014_000000530160.jpg,Which end of the Apple is showing ?,bottom
-./train2014/COCO_train2014_000000047386.jpg,Is the man the owner of the dog ?,yes
-./train2014/COCO_train2014_000000047386.jpg,What kind of hat is the man wearing ?,sun hat
-./train2014/COCO_train2014_000000047386.jpg,What activity are they doing ?,walking
-./train2014/COCO_train2014_000000208011.jpg,How many chairs are there in this picture ?,24
-./train2014/COCO_train2014_000000208011.jpg,How many cats are in the picture ?,2
-./train2014/COCO_train2014_000000208011.jpg,What colors are the chairs ?,green
-./train2014/COCO_train2014_000000337726.jpg,What is the man doing ?,using his phone
-./train2014/COCO_train2014_000000337726.jpg,What color is the bench in the living room ?,black
-./train2014/COCO_train2014_000000337726.jpg,Does the man have company ?,no
-./train2014/COCO_train2014_000000467063.jpg,What is on the man's head ?,cowboy hat
-./train2014/COCO_train2014_000000467063.jpg,Is this man trying to attack the cow with his horse ?,no
-./train2014/COCO_train2014_000000467063.jpg,Who is winning ?,cow
-./train2014/COCO_train2014_000000576072.jpg,Are there two cameras on the windowsill ?,yes
-./train2014/COCO_train2014_000000576072.jpg,What type of cat is this ?,house cat
-./train2014/COCO_train2014_000000576072.jpg,Is the laptop on ?,yes
-./train2014/COCO_train2014_000000367961.jpg,What kind of bus is this ?,tour
-./train2014/COCO_train2014_000000367961.jpg,Is the bus moving ?,no
-./train2014/COCO_train2014_000000367961.jpg,What type of fence is in the background ?,metal
-./train2014/COCO_train2014_000000245326.jpg,What two letters are on the winning horses facial cover ?,wv
-./train2014/COCO_train2014_000000245326.jpg,What sport is this ?,horse riding
-./train2014/COCO_train2014_000000245326.jpg,What horse race is taking place ?,kentucky derby
-./train2014/COCO_train2014_000000311667.jpg,What is the around the boy's neck ?,tie
-./train2014/COCO_train2014_000000311667.jpg,Are these people getting ready for a special occasion ?,yes
-./train2014/COCO_train2014_000000311667.jpg,Does the boy look happy ?,no
-./train2014/COCO_train2014_000000062662.jpg,Could these buildings be in Europe ?,yes
-./train2014/COCO_train2014_000000062662.jpg,What time is on the clock ?,1:20
-./train2014/COCO_train2014_000000062662.jpg,How tall are the buildings ?,very
-./train2014/COCO_train2014_000000393286.jpg,Is the banana freshly peeled ?,yes
-./train2014/COCO_train2014_000000393286.jpg,What is the orange thing ?,cushion
-./train2014/COCO_train2014_000000393286.jpg,Is the banana closed ?,no
-./train2014/COCO_train2014_000000198037.jpg,What is the object called ?,mirror
-./train2014/COCO_train2014_000000198037.jpg,Is this a flash photo ?,no
-./train2014/COCO_train2014_000000198037.jpg,Is this an antique mirror ?,yes
-./train2014/COCO_train2014_000000430621.jpg,Is the batter wearing a helmet ?,yes
-./train2014/COCO_train2014_000000430621.jpg,What game are these people playing ?,baseball
-./train2014/COCO_train2014_000000430621.jpg,Are these kids or adult ?,kids
-./train2014/COCO_train2014_000000488962.jpg,What type of fruit is on the counter ?,banana
-./train2014/COCO_train2014_000000488962.jpg,Is this a party ?,no
-./train2014/COCO_train2014_000000488962.jpg,What is the big fruit above the man's head ?,banana
-./train2014/COCO_train2014_000000259721.jpg,How many ovens are there ?,2
-./train2014/COCO_train2014_000000259721.jpg,What room is this ?,kitchen
-./train2014/COCO_train2014_000000259721.jpg,Is this area well decorated ? ?,yes
-./train2014/COCO_train2014_000000362363.jpg,How many animals can be seen ?,1
-./train2014/COCO_train2014_000000362363.jpg,Is this animal drinking water ?,no
-./train2014/COCO_train2014_000000362363.jpg,What kind of animal is this ?,bear
-./train2014/COCO_train2014_000000459736.jpg,What shapes make up the doors ?,squares
-./train2014/COCO_train2014_000000459736.jpg,How many types of animals are represented in this picture ?,2
-./train2014/COCO_train2014_000000459736.jpg,Where is the cow seated facing ?,to right
-./train2014/COCO_train2014_000000073461.jpg,What bird is in this picture ?,crow
-./train2014/COCO_train2014_000000073461.jpg,Is the bird making noise ?,yes
-./train2014/COCO_train2014_000000073461.jpg,How many birds can be seen ?,2
-./train2014/COCO_train2014_000000579567.jpg,Is the bird sitting on a plant ?,yes
-./train2014/COCO_train2014_000000579567.jpg,Is this bird blinking ?,no
-./train2014/COCO_train2014_000000579567.jpg,How many birds ?,1
-./train2014/COCO_train2014_000000056040.jpg,What is in the girl's mouth ?,toothbrush
-./train2014/COCO_train2014_000000056040.jpg,Is there a picnic table in the photo ?,yes
-./train2014/COCO_train2014_000000056040.jpg,Is the girl's hair color natural ?,no
-./train2014/COCO_train2014_000000224975.jpg,What color are the pants ?,blue
-./train2014/COCO_train2014_000000224975.jpg,Is this person in the air ?,yes
-./train2014/COCO_train2014_000000224975.jpg,What color are the skis ?,blue
-./train2014/COCO_train2014_000000382316.jpg,What color is the seat ?,red
-./train2014/COCO_train2014_000000382316.jpg,Is this a cloudy day ?,yes
-./train2014/COCO_train2014_000000382316.jpg,What is the man carrying ?,umbrella
-./train2014/COCO_train2014_000000301109.jpg,What are the people doing ?,wii
-./train2014/COCO_train2014_000000301109.jpg,Is the lamp light on ?,yes
-./train2014/COCO_train2014_000000301109.jpg,Is there a painting ?,yes
-./train2014/COCO_train2014_000000115005.jpg,How many keyboards are visible ?,3
-./train2014/COCO_train2014_000000115005.jpg,Why are there 4 monitors ?,to multitask
-./train2014/COCO_train2014_000000115005.jpg,Is there a two wheeled object in the room ?,yes
-./train2014/COCO_train2014_000000027844.jpg,What sign is seen ?,bus stop
-./train2014/COCO_train2014_000000027844.jpg,What does the sign say ?,bus stop request headstop
-./train2014/COCO_train2014_000000027844.jpg,What action would make this sign more visible ?,trim limbs
-./train2014/COCO_train2014_000000490481.jpg,How many sprinkles are on this donut ?,many
-./train2014/COCO_train2014_000000490481.jpg,Is the donut whole ?,no
-./train2014/COCO_train2014_000000490481.jpg,Is it storming outside ?,no
-./train2014/COCO_train2014_000000518948.jpg,Is the woman in the middle the Mom of the two boys ?,yes
-./train2014/COCO_train2014_000000518948.jpg,What color shoes does the boy on the right have ?,dirty white
-./train2014/COCO_train2014_000000518948.jpg,Are they all in college ?,no
-./train2014/COCO_train2014_000000567121.jpg,What color is her visor ?,white
-./train2014/COCO_train2014_000000567121.jpg,Who is the sponsor shown at the top left ?,medbank
-./train2014/COCO_train2014_000000567121.jpg,What color is her dress ?,red
-./train2014/COCO_train2014_000000214927.jpg,Is the pizza on a plate or napkin ?,plate
-./train2014/COCO_train2014_000000214927.jpg,Is this a pizza ?,yes
-./train2014/COCO_train2014_000000214927.jpg,Does the person who ordered this pizza like red sauce ?,no
-./train2014/COCO_train2014_000000401720.jpg,What kind of horse is this ?,gray
-./train2014/COCO_train2014_000000401720.jpg,Is there a blanket under the saddle ?,no
-./train2014/COCO_train2014_000000401720.jpg,Is it daytime ?,yes
-./train2014/COCO_train2014_000000262098.jpg,Have you visited this zoo ?,yes
-./train2014/COCO_train2014_000000262098.jpg,Are there buildings in the background ?,yes
-./train2014/COCO_train2014_000000262098.jpg,Is it sunny ?,yes
-./train2014/COCO_train2014_000000371647.jpg,Why is it dark on one side of the room ?,no lighting
-./train2014/COCO_train2014_000000371647.jpg,What is on the wall ?,clock
-./train2014/COCO_train2014_000000371647.jpg,Is a light on ?,yes
-./train2014/COCO_train2014_000000546161.jpg,What sport is being played in this picture ?,baseball
-./train2014/COCO_train2014_000000546161.jpg,Are they boxing ?,no
-./train2014/COCO_train2014_000000546161.jpg,Is he safe ?,no
-./train2014/COCO_train2014_000000006107.jpg,What sport is this ?,baseball
-./train2014/COCO_train2014_000000006107.jpg,What is the boy in black doing ?,getting ready to swing bat
-./train2014/COCO_train2014_000000006107.jpg,What is the boy throwing ?,ball
-./train2014/COCO_train2014_000000461701.jpg,Are these real bears ?,no
-./train2014/COCO_train2014_000000461701.jpg,Is there a brown bear ?,yes
-./train2014/COCO_train2014_000000461701.jpg,How many bears ?,28
-./train2014/COCO_train2014_000000028109.jpg,Is the game in progress ?,yes
-./train2014/COCO_train2014_000000028109.jpg,What color are the man's shoes ?,black and white
-./train2014/COCO_train2014_000000028109.jpg,What company has marketing placed around the court ?,kia
-./train2014/COCO_train2014_000000475967.jpg,Does the dog like what he's eating ?,yes
-./train2014/COCO_train2014_000000475967.jpg,Is this an old dog or a young dog ?,old dog
-./train2014/COCO_train2014_000000475967.jpg,Where is a man in a blue and white striped shirt ?,on ground
-./train2014/COCO_train2014_000000520112.jpg,What are the men doing ?,drinking wine
-./train2014/COCO_train2014_000000520112.jpg,What kind of glasses are on the table ?,wine
-./train2014/COCO_train2014_000000520112.jpg,How old are these men ?,60
-./train2014/COCO_train2014_000000000797.jpg,Are the animals fighting ?,yes
-./train2014/COCO_train2014_000000000797.jpg,What the elephant's tusks made of ?,ivory
-./train2014/COCO_train2014_000000000797.jpg,Does one of the elephants appear to smile ?,yes
-./train2014/COCO_train2014_000000504259.jpg,Are all of the sheep facing the same direction ?,yes
-./train2014/COCO_train2014_000000504259.jpg,How many sheep are standing in picture ?,1
-./train2014/COCO_train2014_000000504259.jpg,Does this animal have the makings of a Christmas sweater on its back ?,yes
-./train2014/COCO_train2014_000000271038.jpg,Is this a public building ?,yes
-./train2014/COCO_train2014_000000271038.jpg,Is there a clock ?,yes
-./train2014/COCO_train2014_000000271038.jpg,Is it snowing here ?,no
-./train2014/COCO_train2014_000000104368.jpg,What is this person eating ?,pizza
-./train2014/COCO_train2014_000000104368.jpg,How many are wearing glasses ?,4
-./train2014/COCO_train2014_000000104368.jpg,How many wheelchairs ?,1
-./train2014/COCO_train2014_000000261387.jpg,What color are the roses ?,red, white and blue
-./train2014/COCO_train2014_000000261387.jpg,Are these cupcakes ?,yes
-./train2014/COCO_train2014_000000261387.jpg,How many cupcakes do not contain the color blue ?,13
-./train2014/COCO_train2014_000000233381.jpg,Is this a child on the surfboard ?,no
-./train2014/COCO_train2014_000000233381.jpg,Is he wearing the right type of suit ?,yes
-./train2014/COCO_train2014_000000233381.jpg,Is this a sexy senior citizen ?,yes
-./train2014/COCO_train2014_000000267831.jpg,Are the men fighting ?,no
-./train2014/COCO_train2014_000000267831.jpg,Which man is controlling the kite ?,man on right
-./train2014/COCO_train2014_000000267831.jpg,Is this a beach ?,yes
-./train2014/COCO_train2014_000000136653.jpg,What is the man hanging from ?,parachute
-./train2014/COCO_train2014_000000136653.jpg,The man is hanging from a boat ?,no
-./train2014/COCO_train2014_000000136653.jpg,What is attached to the man's feet ?,wakeboard
-./train2014/COCO_train2014_000000558567.jpg,Is it night time ?,yes
-./train2014/COCO_train2014_000000558567.jpg,Is this a city street ?,yes
-./train2014/COCO_train2014_000000558567.jpg,Can you see people in the photo ?,no
-./train2014/COCO_train2014_000000238203.jpg,What color is the photo ?,black and white
-./train2014/COCO_train2014_000000238203.jpg,What kind of animals are in the field ?,horses
-./train2014/COCO_train2014_000000238203.jpg,Is this image in black and white ?,yes
-./train2014/COCO_train2014_000000025241.jpg,What part of the body are these worn around ?,neck
-./train2014/COCO_train2014_000000025241.jpg,How many ties are there ?,2
-./train2014/COCO_train2014_000000025241.jpg,Are these mostly worn by men or women ?,men
-./train2014/COCO_train2014_000000523186.jpg,Is the snow in this picture probably natural, or probably man-made ?,natural
-./train2014/COCO_train2014_000000523186.jpg,Is the skier in this picture wearing safety gear ?,yes
-./train2014/COCO_train2014_000000523186.jpg,Is this run a double black diamond ?,no
-./train2014/COCO_train2014_000000391748.jpg,Did he make the shot ?,no
-./train2014/COCO_train2014_000000391748.jpg,Is someone wearing a hat ?,yes
-./train2014/COCO_train2014_000000391748.jpg,What game are the men playing ?,frisbee
-./train2014/COCO_train2014_000000082759.jpg,Is this man in the military ?,yes
-./train2014/COCO_train2014_000000082759.jpg,Who is the man ?,general
-./train2014/COCO_train2014_000000082759.jpg,What color is the man's jacket ?,beige
-./train2014/COCO_train2014_000000213963.jpg,Is the cup clean ?,no
-./train2014/COCO_train2014_000000213963.jpg,What kind of cup is this ?,coffee
-./train2014/COCO_train2014_000000213963.jpg,Is there a keyboard in the foreground of this picture ?,yes
-./train2014/COCO_train2014_000000473102.jpg,What color is the man's shirt ?,green
-./train2014/COCO_train2014_000000473102.jpg,What is the man sitting in front of ?,computer
-./train2014/COCO_train2014_000000473102.jpg,Is this building in a city ?,yes
-./train2014/COCO_train2014_000000576225.jpg,How many different flowers are on the table ?,2
-./train2014/COCO_train2014_000000576225.jpg,Is she a statue ?,no
-./train2014/COCO_train2014_000000576225.jpg,What color is his bag ?,pink
-./train2014/COCO_train2014_000000404486.jpg,How many donuts appear to have NOT been flipped ?,6
-./train2014/COCO_train2014_000000404486.jpg,What are the donuts on ?,conveyor belt
-./train2014/COCO_train2014_000000404486.jpg,How man donuts are there ?,22
-./train2014/COCO_train2014_000000262495.jpg,What is the baby wearing ?,onesie
-./train2014/COCO_train2014_000000262495.jpg,How many feet is the child standing on ?,1
-./train2014/COCO_train2014_000000262495.jpg,What is this baby holding ?,bottle
-./train2014/COCO_train2014_000000547938.jpg,What symbol appears on the tail of the airplane ?,crown
-./train2014/COCO_train2014_000000547938.jpg,Are there any buildings in the background ?,yes
-./train2014/COCO_train2014_000000547938.jpg,Is this an urban area ?,no
-./train2014/COCO_train2014_000000293822.jpg,What color shirt is this person wearing ?,blue
-./train2014/COCO_train2014_000000293822.jpg,Is this person wearing a hat ?,yes
-./train2014/COCO_train2014_000000293822.jpg,Is this in an empty pool ?,no
-./train2014/COCO_train2014_000000062941.jpg,What country owns this airline ?,usa
-./train2014/COCO_train2014_000000062941.jpg,Is the plane in the air ?,yes
-./train2014/COCO_train2014_000000062941.jpg,Where is the plane ?,in air
-./train2014/COCO_train2014_000000090051.jpg,How many cows do you see ?,at least 4
-./train2014/COCO_train2014_000000090051.jpg,IS one of the cows drinking water ?,yes
-./train2014/COCO_train2014_000000090051.jpg,What color are the cows ?,black and white
-./train2014/COCO_train2014_000000121731.jpg,Are there trees visible ?,yes
-./train2014/COCO_train2014_000000121731.jpg,Is it raining in the picture ?,no
-./train2014/COCO_train2014_000000121731.jpg,What is the man herding ?,cows and sheep
-./train2014/COCO_train2014_000000485247.jpg,Is it bright outside ?,yes
-./train2014/COCO_train2014_000000485247.jpg,Is there a sink in this room ?,yes
-./train2014/COCO_train2014_000000485247.jpg,Is this natural or artificial light ?,natural
-./train2014/COCO_train2014_000000279401.jpg,Do the people look tired ?,yes
-./train2014/COCO_train2014_000000279401.jpg,How many people are wearing hats ?,4
-./train2014/COCO_train2014_000000279401.jpg,What are the people doing ?,skiing
-./train2014/COCO_train2014_000000491888.jpg,How many jellies are there on the table ?,3
-./train2014/COCO_train2014_000000491888.jpg,What beverage is in the glass ?,juice
-./train2014/COCO_train2014_000000491888.jpg,What color is the tablecloth ?,white
-./train2014/COCO_train2014_000000569723.jpg,Are there any stripes on the ground ?,yes
-./train2014/COCO_train2014_000000569723.jpg,How many people are watching the man ?,3
-./train2014/COCO_train2014_000000569723.jpg,What game is this ?,tennis
-./train2014/COCO_train2014_000000533957.jpg,What food is on the plate ?,pizza
-./train2014/COCO_train2014_000000533957.jpg,What does the two thumbs up the boy is signifying ?,it's good food
-./train2014/COCO_train2014_000000533957.jpg,Where are the books ?,school books
-./train2014/COCO_train2014_000000491400.jpg,Is this umbrella one color ?,no
-./train2014/COCO_train2014_000000491400.jpg,Why does the man need the umbrella if it's not raining ?,shade
-./train2014/COCO_train2014_000000491400.jpg,What is this man sitting on ?,bench
-./train2014/COCO_train2014_000000443427.jpg,What color is the mans' jacket ?,blue
-./train2014/COCO_train2014_000000443427.jpg,Is the man getting on the train ?,no
-./train2014/COCO_train2014_000000443427.jpg,What holiday has the same theme colors as the train ?,christmas
-./train2014/COCO_train2014_000000555473.jpg,Are these people walking on the water ?,no
-./train2014/COCO_train2014_000000555473.jpg,What is the website being advertised ?,windfornellscom
-./train2014/COCO_train2014_000000555473.jpg,Is everyone wearing life jackets ?,yes
-./train2014/COCO_train2014_000000303703.jpg,Is the refrigerator open ?,no
-./train2014/COCO_train2014_000000303703.jpg,What is the orange bowl carrying ?,oranges, lemons & limes
-./train2014/COCO_train2014_000000303703.jpg,What is in the pitcher ?,flowers
-./train2014/COCO_train2014_000000233647.jpg,Are they trained elephants ?,yes
-./train2014/COCO_train2014_000000233647.jpg,How many elephants are in the scene ?,3
-./train2014/COCO_train2014_000000233647.jpg,Are this circus elephants ?,yes
-./train2014/COCO_train2014_000000163818.jpg,Are there any bananas ?,yes
-./train2014/COCO_train2014_000000163818.jpg,What are the different kind of fruits there ?,unknown
-./train2014/COCO_train2014_000000163818.jpg,What place is this ?,kiosk
-./train2014/COCO_train2014_000000020857.jpg,What is the main color of this pic ?,yellow
-./train2014/COCO_train2014_000000020857.jpg,Is there anything edible ?,yes
-./train2014/COCO_train2014_000000020857.jpg,What kind of food is shown ?,banana, mais and peach
-./train2014/COCO_train2014_000000501647.jpg,What color is the players shirt ?,blue
-./train2014/COCO_train2014_000000501647.jpg,What color is the batting helmet ?,blue
-./train2014/COCO_train2014_000000501647.jpg,How many shoes are visible ?,5
-./train2014/COCO_train2014_000000119618.jpg,Is this an American license plate ?,no
-./train2014/COCO_train2014_000000119618.jpg,Is it raining in this photo ?,yes
-./train2014/COCO_train2014_000000119618.jpg,Does the umbrella make this look like a clown car ?,yes
-./train2014/COCO_train2014_000000522820.jpg,Where is this plane going ?,beluga
-./train2014/COCO_train2014_000000522820.jpg,What does it say on the plane ?,beluga airbus
-./train2014/COCO_train2014_000000522820.jpg,Is this an American plane ?,no
-./train2014/COCO_train2014_000000367259.jpg,Are the children related ?,yes
-./train2014/COCO_train2014_000000367259.jpg,What color is the umbrella ?,blue
-./train2014/COCO_train2014_000000367259.jpg,What color is the table ?,brown
-./train2014/COCO_train2014_000000164655.jpg,How many police vehicle do you see ?,2
-./train2014/COCO_train2014_000000164655.jpg,Is this the police ?,yes
-./train2014/COCO_train2014_000000164655.jpg,What happened in this picture ?,unknown
-./train2014/COCO_train2014_000000249727.jpg,Do the ladies have the same food to eat ?,yes
-./train2014/COCO_train2014_000000249727.jpg,Is the woman on the right wearing a necklace ?,yes
-./train2014/COCO_train2014_000000249727.jpg,What is on the plates ?,doughnuts
-./train2014/COCO_train2014_000000535768.jpg,Is the boy asleep ?,no
-./train2014/COCO_train2014_000000535768.jpg,Is the boy smiling ?,no
-./train2014/COCO_train2014_000000535768.jpg,Are there toys on the bed ?,yes
-./train2014/COCO_train2014_000000318845.jpg,What are the children in the back of ?,pickup truck
-./train2014/COCO_train2014_000000318845.jpg,Who is driving the truck ?,driver
-./train2014/COCO_train2014_000000318845.jpg,Does this truck have flat tires ?,no
-./train2014/COCO_train2014_000000271586.jpg,Is this vehicle upside down ?,yes
-./train2014/COCO_train2014_000000271586.jpg,Is this a fighter jet ?,yes
-./train2014/COCO_train2014_000000271586.jpg,Is it white or black ?,white
-./train2014/COCO_train2014_000000528992.jpg,What is on the board ?,sandwich
-./train2014/COCO_train2014_000000528992.jpg,Are these bananas ?,no
-./train2014/COCO_train2014_000000528992.jpg,What is under the bread ?,not sure
-./train2014/COCO_train2014_000000540464.jpg,Do monkeys like these ?,yes
-./train2014/COCO_train2014_000000540464.jpg,What food is shown ?,plantains
-./train2014/COCO_train2014_000000540464.jpg,Are these bananas ripe ?,yes
-./train2014/COCO_train2014_000000410312.jpg,How many pieces of footwear do you see in this photo ?,1
-./train2014/COCO_train2014_000000410312.jpg,What is the child cutting ?,paper
-./train2014/COCO_train2014_000000410312.jpg,Is the child wearing eyeglasses ?,yes
-./train2014/COCO_train2014_000000267289.jpg,Has the batter already his the ball ?,no
-./train2014/COCO_train2014_000000267289.jpg,What business is advertised on the billboard ?,nikon
-./train2014/COCO_train2014_000000267289.jpg,What are they wearing on their feet ?,cleats
-./train2014/COCO_train2014_000000181009.jpg,What type of phone is the person holding ?,cell
-./train2014/COCO_train2014_000000181009.jpg,What color is the railing ?,silver
-./train2014/COCO_train2014_000000181009.jpg,How many phones do they have ?,2
-./train2014/COCO_train2014_000000080084.jpg,Is there a pot on the stove ?,yes
-./train2014/COCO_train2014_000000080084.jpg,Do the countertops and cabinets match ?,no
-./train2014/COCO_train2014_000000080084.jpg,What does the woman have on her neck ?,scarf
-./train2014/COCO_train2014_000000158307.jpg,What is in the sky besides a bird ?,clouds
-./train2014/COCO_train2014_000000158307.jpg,How many people are on the hill ?,8
-./train2014/COCO_train2014_000000158307.jpg,Where is the bird ?,in sky
-./train2014/COCO_train2014_000000360475.jpg,What is the fence made out of ?,metal
-./train2014/COCO_train2014_000000360475.jpg,What is the man trying to do ?,hit ball
-./train2014/COCO_train2014_000000360475.jpg,Is the man wearing sunglasses ?,yes
-./train2014/COCO_train2014_000000375665.jpg,What color is the board ?,red
-./train2014/COCO_train2014_000000375665.jpg,Is the water calm ?,yes
-./train2014/COCO_train2014_000000375665.jpg,Is it sunny or rainy ?,sunny
-./train2014/COCO_train2014_000000342259.jpg,What is the pizza on ?,plate
-./train2014/COCO_train2014_000000342259.jpg,What is the person cutting ?,pizza
-./train2014/COCO_train2014_000000342259.jpg,What is the stuff in the bottle for ?,tabasco sauce
-./train2014/COCO_train2014_000000452819.jpg,Are the bikes safe ?,yes
-./train2014/COCO_train2014_000000452819.jpg,Is this a modern picture ?,no
-./train2014/COCO_train2014_000000452819.jpg,How many bikes are there ?,10
-./train2014/COCO_train2014_000000444173.jpg,Who is sitting on the bench ?,no one
-./train2014/COCO_train2014_000000444173.jpg,What type of filter is used in this picture ?,black and white
-./train2014/COCO_train2014_000000444173.jpg,Is the picture in focus ?,no
-./train2014/COCO_train2014_000000051898.jpg,Is it raining ?,no
-./train2014/COCO_train2014_000000051898.jpg,Are there any people sitting on the bench ?,no
-./train2014/COCO_train2014_000000051898.jpg,What time does the clock on the tower say ?,10:20
-./train2014/COCO_train2014_000000300542.jpg,What is this man preparing with the ladle ?,food
-./train2014/COCO_train2014_000000300542.jpg,Are there tongs in the photo ?,yes
-./train2014/COCO_train2014_000000300542.jpg,What kind of food is sold at this restaurant ?,american
-./train2014/COCO_train2014_000000194722.jpg,How is the weather ?,foggy
-./train2014/COCO_train2014_000000194722.jpg,Why does the water have white spots ?,waves
-./train2014/COCO_train2014_000000194722.jpg,Is this plane flying to low to the ground and water ?,no
-./train2014/COCO_train2014_000000251454.jpg,Where are the women leaning ?,plane
-./train2014/COCO_train2014_000000251454.jpg,What color are their shirts ?,green
-./train2014/COCO_train2014_000000251454.jpg,Is the plane running ?,no
-./train2014/COCO_train2014_000000329387.jpg,What direction is the plane pointed ?,west
-./train2014/COCO_train2014_000000329387.jpg,What does the side of the plane say ?,qatar
-./train2014/COCO_train2014_000000329387.jpg,How many clouds are visible in this photo ?,0
-./train2014/COCO_train2014_000000318189.jpg,What make of car is this ?,ford
-./train2014/COCO_train2014_000000318189.jpg,Is this a vintage car ?,yes
-./train2014/COCO_train2014_000000318189.jpg,What color is the surfboard ?,white and fluorescent yellow
-./train2014/COCO_train2014_000000170069.jpg,Are there mountains in the background ?,yes
-./train2014/COCO_train2014_000000170069.jpg,Is there a boat in the picture ?,yes
-./train2014/COCO_train2014_000000170069.jpg,Is there a buoy in the water ?,yes
-./train2014/COCO_train2014_000000016412.jpg,Is the road busy ?,yes
-./train2014/COCO_train2014_000000016412.jpg,Is it raining ?,yes
-./train2014/COCO_train2014_000000016412.jpg,Why are the people running across the street ?,raining
-./train2014/COCO_train2014_000000491111.jpg,What is the pattern on the sheets ?,flower
-./train2014/COCO_train2014_000000491111.jpg,Where are the kids ?,bed
-./train2014/COCO_train2014_000000491111.jpg,Are these girls or boys ?,girls
-./train2014/COCO_train2014_000000408219.jpg,What is on the man's face ?,goggles
-./train2014/COCO_train2014_000000408219.jpg,What color is the snowboard ?,blue
-./train2014/COCO_train2014_000000408219.jpg,What season does this photo represent ?,winter
-./train2014/COCO_train2014_000000310562.jpg,Does it seem that this is happening at a relatively late hour ?,yes
-./train2014/COCO_train2014_000000310562.jpg,Is this likely at someone's house ?,no
-./train2014/COCO_train2014_000000310562.jpg,Are there any windows ?,no
-./train2014/COCO_train2014_000000165018.jpg,Is it a good day for snowboarding ?,yes
-./train2014/COCO_train2014_000000165018.jpg,Can you see tree in the picture ?,yes
-./train2014/COCO_train2014_000000165018.jpg,How many people are on the slope ?,5
-./train2014/COCO_train2014_000000073302.jpg,What color is the bold man's shirt ?,green
-./train2014/COCO_train2014_000000073302.jpg,Where is this ?,bakery
-./train2014/COCO_train2014_000000073302.jpg,Does this appear to be a butcher shop ?,no
-./train2014/COCO_train2014_000000504321.jpg,What color is the bird near the water ?,white and gray
-./train2014/COCO_train2014_000000504321.jpg,What is in the background ?,boats
-./train2014/COCO_train2014_000000504321.jpg,Is the bird hungry ?,yes
-./train2014/COCO_train2014_000000439809.jpg,Is this a child ?,yes
-./train2014/COCO_train2014_000000439809.jpg,Is there a mountain in this picture ?,yes
-./train2014/COCO_train2014_000000439809.jpg,Is this horse wild ?,no
-./train2014/COCO_train2014_000000014622.jpg,What colors do the cars alternate ?,white and brown
-./train2014/COCO_train2014_000000014622.jpg,Can three trains use these tracks at the same time ?,no
-./train2014/COCO_train2014_000000014622.jpg,Is the train going left or right ?,left
-./train2014/COCO_train2014_000000029075.jpg,Where are the hippos ?,water
-./train2014/COCO_train2014_000000029075.jpg,Are these hippos ?,yes
-./train2014/COCO_train2014_000000029075.jpg,Are these hippos in the water ?,no
-./train2014/COCO_train2014_000000565939.jpg,Is there a dog ?,yes
-./train2014/COCO_train2014_000000565939.jpg,What is the person doing ?,playing with dog
-./train2014/COCO_train2014_000000565939.jpg,What kind of goal is behind the boy ?,soccer
-./train2014/COCO_train2014_000000497327.jpg,What is the main color of the boat ?,white
-./train2014/COCO_train2014_000000497327.jpg,What flag is flown at the end of the boat ?,usa
-./train2014/COCO_train2014_000000497327.jpg,Where is this ?,water
-./train2014/COCO_train2014_000000172507.jpg,Is someone drinking the soda ?,yes
-./train2014/COCO_train2014_000000172507.jpg,Is the sandwich cut in half ?,yes
-./train2014/COCO_train2014_000000172507.jpg,What drink is in the can ?,coca cola
-./train2014/COCO_train2014_000000185436.jpg,What vegetable is on top of the rack ?,avocado
-./train2014/COCO_train2014_000000185436.jpg,What kind of carrots are in the bag ?,baby
-./train2014/COCO_train2014_000000185436.jpg,Is there any meat visible ?,no
-./train2014/COCO_train2014_000000268510.jpg,Is the towel wet ?,yes
-./train2014/COCO_train2014_000000268510.jpg,Is there someone in the mirror ?,yes
-./train2014/COCO_train2014_000000268510.jpg,Is the faucet running ?,no
-./train2014/COCO_train2014_000000568396.jpg,Is there rice in this dish ?,yes
-./train2014/COCO_train2014_000000568396.jpg,Are there onions in the salad ?,yes
-./train2014/COCO_train2014_000000568396.jpg,Can the plate be thrown away ?,yes
-./train2014/COCO_train2014_000000332732.jpg,What does the red and white sign say ?,stop
-./train2014/COCO_train2014_000000332732.jpg,What is on the stop sign ?,graffiti
-./train2014/COCO_train2014_000000332732.jpg,Where the stop sign is fitted ?,on bus
-./train2014/COCO_train2014_000000325710.jpg,What is the person eating ?,pizza
-./train2014/COCO_train2014_000000325710.jpg,What toppings are on the pizza ?,pepperoni
-./train2014/COCO_train2014_000000325710.jpg,How many people ?,7
-./train2014/COCO_train2014_000000493468.jpg,What sport is being played ?,tennis
-./train2014/COCO_train2014_000000493468.jpg,What is the sex of the player playing the sport ?,male
-./train2014/COCO_train2014_000000493468.jpg,What kind of pants is the person wearing ?,shorts
-./train2014/COCO_train2014_000000428299.jpg,Would the food in the picture be consider healthier than McDonald's Chicken Nuggets ?,yes
-./train2014/COCO_train2014_000000428299.jpg,What is the green food ?,broccoli
-./train2014/COCO_train2014_000000428299.jpg,What color are the stars ?,gold
-./train2014/COCO_train2014_000000055951.jpg,What does the woman have in her hand ?,wine glass
-./train2014/COCO_train2014_000000055951.jpg,Are the women wearing sunglasses ?,yes
-./train2014/COCO_train2014_000000055951.jpg,Are they wearing matching bracelets ?,yes
-./train2014/COCO_train2014_000000349237.jpg,Is the bench full ?,no
-./train2014/COCO_train2014_000000349237.jpg,Is that a modern piece of military equipment ?,no
-./train2014/COCO_train2014_000000349237.jpg,Has the bench been painted recently ?,no
-./train2014/COCO_train2014_000000378028.jpg,How many chairs are in the room ?,3
-./train2014/COCO_train2014_000000378028.jpg,Are cabinet doors open ?,yes
-./train2014/COCO_train2014_000000378028.jpg,Is the girl facing the camera ?,no
-./train2014/COCO_train2014_000000110393.jpg,Were these pictures taken on the same day ?,yes
-./train2014/COCO_train2014_000000110393.jpg,What age range is this person ?,12-14
-./train2014/COCO_train2014_000000110393.jpg,Does he have something clipped on his jacket ?,yes
-./train2014/COCO_train2014_000000429614.jpg,Is the mozzarella cheese shredded or buffalo style ?,buffalo style
-./train2014/COCO_train2014_000000429614.jpg,Is that woman angry ?,no
-./train2014/COCO_train2014_000000429614.jpg,Is that going to be delicious ?,yes
-./train2014/COCO_train2014_000000406077.jpg,Does the weather appear to be sunny ?,yes
-./train2014/COCO_train2014_000000406077.jpg,What style of urban painting is on the train car ?,graffiti
-./train2014/COCO_train2014_000000406077.jpg,What are the letters on the train ?,gatx
-./train2014/COCO_train2014_000000224079.jpg,What is the baby holding ?,toothbrush
-./train2014/COCO_train2014_000000224079.jpg,Is the baby wearing a bib ?,yes
-./train2014/COCO_train2014_000000224079.jpg,How many colors are on the bib ?,4
-./train2014/COCO_train2014_000000229658.jpg,Are these seagulls ?,no
-./train2014/COCO_train2014_000000229658.jpg,What color are the trees ?,green
-./train2014/COCO_train2014_000000229658.jpg,What are the birds doing in this area ?,standing there
-./train2014/COCO_train2014_000000141922.jpg,Has someone been using a lot of bleach on a wearable ?,yes
-./train2014/COCO_train2014_000000141922.jpg,What is hanging around the man's neck ?,lanyard with tag
-./train2014/COCO_train2014_000000141922.jpg,Is there a blue drink on the table ?,yes
-./train2014/COCO_train2014_000000346964.jpg,How many blades of dry grass are there in the field ?,1000
-./train2014/COCO_train2014_000000346964.jpg,What color is the grass ?,brown
-./train2014/COCO_train2014_000000346964.jpg,How many giraffes are pictured here ?,6
-./train2014/COCO_train2014_000000255375.jpg,What color is the women's dress ?,black
-./train2014/COCO_train2014_000000255375.jpg,Who is smoking ?,woman
-./train2014/COCO_train2014_000000255375.jpg,What color is the man's shirt ?,blue
-./train2014/COCO_train2014_000000103843.jpg,Is the burrito bigger than the plate ?,yes
-./train2014/COCO_train2014_000000103843.jpg,What type of salsa is in the two white paper cups ?,relish
-./train2014/COCO_train2014_000000103843.jpg,What is this type of food called ?,wrap
-./train2014/COCO_train2014_000000119962.jpg,What is next to the pizza ?,keys
-./train2014/COCO_train2014_000000119962.jpg,Is there meat on the pizza ?,yes
-./train2014/COCO_train2014_000000119962.jpg,Did someone steal a slice of pizza ?,yes
-./train2014/COCO_train2014_000000103166.jpg,What is the boy doing ?,skiing
-./train2014/COCO_train2014_000000103166.jpg,Is the boy's jacket too big for him ?,no
-./train2014/COCO_train2014_000000103166.jpg,Does this person look like a hardened criminal ?,yes
-./train2014/COCO_train2014_000000121365.jpg,What is the boy riding on ?,skateboard
-./train2014/COCO_train2014_000000121365.jpg,What pattern is on his shirt ?,striped
-./train2014/COCO_train2014_000000121365.jpg,Is the person in the bottom of the ramp ?,no
-./train2014/COCO_train2014_000000198546.jpg,Is this a baby elephant ?,no
-./train2014/COCO_train2014_000000198546.jpg,Does the elephant have tusks ?,no
-./train2014/COCO_train2014_000000198546.jpg,What is on the elephants trunk ?,skin
-./train2014/COCO_train2014_000000394303.jpg,Is this dog overweight ?,no
-./train2014/COCO_train2014_000000394303.jpg,Is the dog throwing the frisbee ?,no
-./train2014/COCO_train2014_000000394303.jpg,Is the dog a female ?,yes
-./train2014/COCO_train2014_000000172171.jpg,What color is the vehicle in the picture ?,red
-./train2014/COCO_train2014_000000172171.jpg,Is that snow on the ground ?,yes
-./train2014/COCO_train2014_000000172171.jpg,What kind of vehicle is in the photo ?,bus
-./train2014/COCO_train2014_000000269551.jpg,What is the table made of ?,wood
-./train2014/COCO_train2014_000000269551.jpg,What is this man doing ?,playing on laptop
-./train2014/COCO_train2014_000000269551.jpg,What color is his shirt ?,brown
-./train2014/COCO_train2014_000000338910.jpg,Is it snowing ?,yes
-./train2014/COCO_train2014_000000338910.jpg,What is in the background ?,ski lift
-./train2014/COCO_train2014_000000338910.jpg,Are there any people on the seats in the air ?,yes
-./train2014/COCO_train2014_000000517748.jpg,What kind of fruit is in the foreground ?,grape
-./train2014/COCO_train2014_000000517748.jpg,Are the grapes in a basket ?,no
-./train2014/COCO_train2014_000000517748.jpg,What is out of focus ?,orange, apples, pears
-./train2014/COCO_train2014_000000023702.jpg,Is this a camel ?,no
-./train2014/COCO_train2014_000000023702.jpg,Is that a mountain in the background ?,yes
-./train2014/COCO_train2014_000000023702.jpg,What does the side of the camel say ?,water aid
-./train2014/COCO_train2014_000000469701.jpg,What game system is the person playing ?,wii
-./train2014/COCO_train2014_000000469701.jpg,What color is the sweatshirt ?,blue
-./train2014/COCO_train2014_000000469701.jpg,What do you call the controller the girl is using ?,wiimote
-./train2014/COCO_train2014_000000298427.jpg,What kind of cheese is used in this dish ?,swiss
-./train2014/COCO_train2014_000000298427.jpg,Would a vegetarian eat this meal ?,no
-./train2014/COCO_train2014_000000298427.jpg,What is on the plate ?,food
-./train2014/COCO_train2014_000000531961.jpg,Could she be a he ?,no
-./train2014/COCO_train2014_000000531961.jpg,Is she wearing makeup ?,yes
-./train2014/COCO_train2014_000000531961.jpg,What is the hair across the forehead known as ?,bangs
-./train2014/COCO_train2014_000000467929.jpg,What number is he wearing ?,3
-./train2014/COCO_train2014_000000467929.jpg,What is the man wearing on his head ?,hat
-./train2014/COCO_train2014_000000467929.jpg,Are the skis on his feet ?,no
-./train2014/COCO_train2014_000000121046.jpg,What is in the pot ?,turkey
-./train2014/COCO_train2014_000000121046.jpg,What holiday is this meal often associated with ?,thanksgiving
-./train2014/COCO_train2014_000000121046.jpg,Is the woman wearing mom jeans ?,yes
-./train2014/COCO_train2014_000000216571.jpg,Is this professional photo ?,yes
-./train2014/COCO_train2014_000000216571.jpg,What number is the jockey in orange wearing ?,7
-./train2014/COCO_train2014_000000216571.jpg,How many horses are there ?,2
-./train2014/COCO_train2014_000000301191.jpg,How many crosses can be seen ?,7
-./train2014/COCO_train2014_000000301191.jpg,Is the sky cloudy ?,no
-./train2014/COCO_train2014_000000301191.jpg,What time does it say ?,3:05
-./train2014/COCO_train2014_000000442542.jpg,Is this greasy ?,no
-./train2014/COCO_train2014_000000442542.jpg,What vegetable is one the plate ?,broccoli
-./train2014/COCO_train2014_000000442542.jpg,What kind of seed is sprinkled on top of the dish ?,sesame
-./train2014/COCO_train2014_000000228226.jpg,What type of plane is this ?,bomber
-./train2014/COCO_train2014_000000228226.jpg,What are below the plane ?,city
-./train2014/COCO_train2014_000000228226.jpg,Is this a military plane ?,yes
-./train2014/COCO_train2014_000000508663.jpg,How many lighting fixtures are in the picture ?,5
-./train2014/COCO_train2014_000000508663.jpg,Is the room well kept ?,yes
-./train2014/COCO_train2014_000000508663.jpg,How many framed pictures are on the wall ?,4
-./train2014/COCO_train2014_000000523196.jpg,What establishment is on the right hand side of the street ?,lion
-./train2014/COCO_train2014_000000523196.jpg,How many people walking the sidewalk ?,2
-./train2014/COCO_train2014_000000523196.jpg,What does the red sign say ?,the lion
-./train2014/COCO_train2014_000000418868.jpg,How many people are shown ?,2
-./train2014/COCO_train2014_000000418868.jpg,What color is the animal ?,black
-./train2014/COCO_train2014_000000418868.jpg,What gender is the person milking the cow ?,female
-./train2014/COCO_train2014_000000396400.jpg,Is the dog on  leash ?,yes
-./train2014/COCO_train2014_000000396400.jpg,Is this animal happy ?,yes
-./train2014/COCO_train2014_000000396400.jpg,What color is the collar ?,red
-./train2014/COCO_train2014_000000548704.jpg,What is inside the bananas ?,fried banana
-./train2014/COCO_train2014_000000548704.jpg,How many bananas are pictured ?,4
-./train2014/COCO_train2014_000000548704.jpg,Have the bananas been cooked ?,yes
-./train2014/COCO_train2014_000000019759.jpg,How old are the people in the back ?,17
-./train2014/COCO_train2014_000000019759.jpg,Is this a modern photo ?,no
-./train2014/COCO_train2014_000000019759.jpg,How many people with ties are visible ?,2
-./train2014/COCO_train2014_000000041005.jpg,How many clouds are in the sky ?,no
-./train2014/COCO_train2014_000000041005.jpg,Which direction are the skiers looking towards ?,downhill
-./train2014/COCO_train2014_000000041005.jpg,How many skiers are there ?,4
-./train2014/COCO_train2014_000000569718.jpg,What kind of animal is this ?,giraffe
-./train2014/COCO_train2014_000000569718.jpg,Does this animal have stripes ?,no
-./train2014/COCO_train2014_000000569718.jpg,Is the giraffe running ?,no
-./train2014/COCO_train2014_000000309521.jpg,What type of wood is that bed frame made of ?,oak
-./train2014/COCO_train2014_000000309521.jpg,Is it dark outside ?,no
-./train2014/COCO_train2014_000000309521.jpg,What are covering the windows ?,blinds
-./train2014/COCO_train2014_000000371091.jpg,Might the airplane be preparing for a landing ?,yes
-./train2014/COCO_train2014_000000371091.jpg,Is this Air China plane ?,yes
-./train2014/COCO_train2014_000000371091.jpg,How many wheels are visible ?,18
-./train2014/COCO_train2014_000000396743.jpg,What is the table made of ?,stone
-./train2014/COCO_train2014_000000396743.jpg,What color is the vase ?,blue
-./train2014/COCO_train2014_000000396743.jpg,What is the vase on ?,table
-./train2014/COCO_train2014_000000159585.jpg,What is this animal eating ?,grass
-./train2014/COCO_train2014_000000159585.jpg,Where is the fence ?,behind animal
-./train2014/COCO_train2014_000000159585.jpg,Is this photo outdoors ?,yes
-./train2014/COCO_train2014_000000540923.jpg,What is the yellow vegetable in the picture ?,potato
-./train2014/COCO_train2014_000000540923.jpg,Is this pizza ?,no
-./train2014/COCO_train2014_000000540923.jpg,What color is the napkin ?,red
-./train2014/COCO_train2014_000000552291.jpg,What are the people doing in this picture ?,eating
-./train2014/COCO_train2014_000000552291.jpg,How many people are under 30 in this picture ?,0
-./train2014/COCO_train2014_000000552291.jpg,How many people wearing hats ?,3
-./train2014/COCO_train2014_000000358527.jpg,What color are the flowers ?,red
-./train2014/COCO_train2014_000000358527.jpg,What animal is this ?,zebra
-./train2014/COCO_train2014_000000358527.jpg,What are the lines going across the front of the picture ?,fence
-./train2014/COCO_train2014_000000055580.jpg,What is placed on top of the fireplace ?,vase
-./train2014/COCO_train2014_000000055580.jpg,Why is there wood in the room ?,floor
-./train2014/COCO_train2014_000000055580.jpg,What color are the walls ?,orange
-./train2014/COCO_train2014_000000398535.jpg,Are there any signs prohibiting behavior ?,yes
-./train2014/COCO_train2014_000000398535.jpg,How is the weather ?,warm
-./train2014/COCO_train2014_000000398535.jpg,What are they flying ?,kites
-./train2014/COCO_train2014_000000180641.jpg,Is the dog tired ?,yes
-./train2014/COCO_train2014_000000180641.jpg,What is over the dog's mouth ?,muzzle
-./train2014/COCO_train2014_000000180641.jpg,Why is this dog wearing mouth guard ?,bites
-./train2014/COCO_train2014_000000190580.jpg,Is this cat asleep ?,no
-./train2014/COCO_train2014_000000190580.jpg,What is the sofa made of ?,leather
-./train2014/COCO_train2014_000000190580.jpg,What is that colorful thing underneath the cat ?,toy
-./train2014/COCO_train2014_000000294834.jpg,How many giraffes are sitting ?,1 giraffe is sitting
-./train2014/COCO_train2014_000000294834.jpg,How many baby giraffes are pictured ?,1
-./train2014/COCO_train2014_000000294834.jpg,What is on the ground near the standing giraffe ?,rocks
-./train2014/COCO_train2014_000000521366.jpg,What has this couple recently done ?,marry
-./train2014/COCO_train2014_000000521366.jpg,Are two men getting married ?,no
-./train2014/COCO_train2014_000000521366.jpg,What is this event ?,wedding
-./train2014/COCO_train2014_000000002114.jpg,How many boats are visible ?,4
-./train2014/COCO_train2014_000000002114.jpg,How many umbrellas are in the image ?,4
-./train2014/COCO_train2014_000000002114.jpg,How many chairs are visible ?,4
-./train2014/COCO_train2014_000000026780.jpg,Does this look like a group of nerds ?,no
-./train2014/COCO_train2014_000000026780.jpg,What are the people throwing ?,frisbee
-./train2014/COCO_train2014_000000026780.jpg,Are there more men than women in this picture ?,yes
-./train2014/COCO_train2014_000000444350.jpg,Is this a professional event ?,yes
-./train2014/COCO_train2014_000000444350.jpg,What is the man holding ?,frisbee
-./train2014/COCO_train2014_000000444350.jpg,What color shirt is the man wearing ?,blue
-./train2014/COCO_train2014_000000317962.jpg,How many pillows are on the blanket ?,2
-./train2014/COCO_train2014_000000317962.jpg,What is the object lying on the bed ?,cell phone
-./train2014/COCO_train2014_000000317962.jpg,What color is the mug that's on the nightstand ?,white
-./train2014/COCO_train2014_000000205947.jpg,Is there an empty plate on the table ?,yes
-./train2014/COCO_train2014_000000205947.jpg,Is this a healthy well balanced meal ?,no
-./train2014/COCO_train2014_000000205947.jpg,What tomato-based condiment is usually paired with the side dish shown ?,ketchup
-./train2014/COCO_train2014_000000141554.jpg,What age demographic are these boys ?,indian
-./train2014/COCO_train2014_000000141554.jpg,Are all of the boys wearing backpacks ?,no
-./train2014/COCO_train2014_000000141554.jpg,Are these people black ?,no
-./train2014/COCO_train2014_000000179409.jpg,What room is this ?,bathroom
-./train2014/COCO_train2014_000000179409.jpg,Is it a bathroom ?,yes
-./train2014/COCO_train2014_000000179409.jpg,Which room is this ?,bathroom
-./train2014/COCO_train2014_000000319045.jpg,Should they be worried about sunburn ?,no
-./train2014/COCO_train2014_000000319045.jpg,Is there snow on the ground ?,yes
-./train2014/COCO_train2014_000000319045.jpg,Is it winter ?,yes
-./train2014/COCO_train2014_000000575530.jpg,Which room is this ?,bathroom
-./train2014/COCO_train2014_000000575530.jpg,Has this room been recently cleaned ?,yes
-./train2014/COCO_train2014_000000575530.jpg,Where is the mirror ?,wall
-./train2014/COCO_train2014_000000127391.jpg,What room is this ?,bathroom
-./train2014/COCO_train2014_000000127391.jpg,What is the robe made out of ?,terry cloth
-./train2014/COCO_train2014_000000127391.jpg,Can the robe see its reflection ?,no
-./train2014/COCO_train2014_000000429935.jpg,Are there three people in the photo ?,no
-./train2014/COCO_train2014_000000429935.jpg,Do these people know each other ?,yes
-./train2014/COCO_train2014_000000429935.jpg,What color are the wetsuits ?,black
-./train2014/COCO_train2014_000000132908.jpg,Is this a bus ?,yes
-./train2014/COCO_train2014_000000132908.jpg,How many wheels are on the bus ?,6
-./train2014/COCO_train2014_000000132908.jpg,Where is the bus parked ?,parking lot
-./train2014/COCO_train2014_000000299433.jpg,What color is this air Canada jet ?,white
-./train2014/COCO_train2014_000000299433.jpg,What color is the sky ?,gray
-./train2014/COCO_train2014_000000299433.jpg,What picture is on the tail of the plane ?,maple leaf
-./train2014/COCO_train2014_000000212863.jpg,What furniture is under the plane ?,chairs table
-./train2014/COCO_train2014_000000212863.jpg,Is the plane in the air ?,no
-./train2014/COCO_train2014_000000212863.jpg,Where is the plane ?,ground
-./train2014/COCO_train2014_000000384888.jpg,What is in the black cup ?,potato salad
-./train2014/COCO_train2014_000000384888.jpg,What is the boy eating ?,ribs
-./train2014/COCO_train2014_000000384888.jpg,Is there a cup of beer ?,yes
-./train2014/COCO_train2014_000000465335.jpg,How many mammals are in the vicinity of the picture ?,1
-./train2014/COCO_train2014_000000465335.jpg,Are there two dogs in this picture ?,no
-./train2014/COCO_train2014_000000465335.jpg,Is there a human present ?,yes
-./train2014/COCO_train2014_000000308653.jpg,Is this a heavily populated area ?,no
-./train2014/COCO_train2014_000000308653.jpg,How many sheep ?,14
-./train2014/COCO_train2014_000000308653.jpg,Have the sheep been recently shorn ?,no
-./train2014/COCO_train2014_000000344859.jpg,What is the average height of the waves ?,low
-./train2014/COCO_train2014_000000344859.jpg,Are the surfers' feet wet ?,yes
-./train2014/COCO_train2014_000000344859.jpg,What are the two people doing on the beach ?,surfing
-./train2014/COCO_train2014_000000147520.jpg,What sport are they participating in ?,skiing
-./train2014/COCO_train2014_000000147520.jpg,Is there grass on the ground ?,no
-./train2014/COCO_train2014_000000147520.jpg,Is this the woods ?,yes
-./train2014/COCO_train2014_000000528165.jpg,Are these animal in a barn ?,no
-./train2014/COCO_train2014_000000528165.jpg,Are the animals all the same color ?,no
-./train2014/COCO_train2014_000000528165.jpg,Do these animals eat grass ?,yes
-./train2014/COCO_train2014_000000580781.jpg,Can you guess what this girl is currently entertaining herself with ?,texting
-./train2014/COCO_train2014_000000580781.jpg,What color is the girl's headband ?,pink
-./train2014/COCO_train2014_000000580781.jpg,What snack is sitting in front of the girl ?,candy
-./train2014/COCO_train2014_000000504065.jpg,Are the roads wet ?,yes
-./train2014/COCO_train2014_000000504065.jpg,What color is the first traffic signal ?,red light
-./train2014/COCO_train2014_000000504065.jpg,Why are the lights reflecting on the ground ?,rain
-./train2014/COCO_train2014_000000321679.jpg,Is this a military vehicle ?,no
-./train2014/COCO_train2014_000000321679.jpg,Is it sunny ?,yes
-./train2014/COCO_train2014_000000321679.jpg,What brand of vehicle is in the foreground ?,chevy
-./train2014/COCO_train2014_000000514269.jpg,Is anyone in the bathroom ?,no
-./train2014/COCO_train2014_000000514269.jpg,Is there a mirror on the wall ?,yes
-./train2014/COCO_train2014_000000514269.jpg,What is the sink made out of ?,tile
-./train2014/COCO_train2014_000000184914.jpg,Are the people twins ?,no
-./train2014/COCO_train2014_000000184914.jpg,Is the giraffe attacking the child ?,no
-./train2014/COCO_train2014_000000184914.jpg,How many different types of animals are in the photo ?,1
-./train2014/COCO_train2014_000000292211.jpg,What is on the child's knees ?,pads
-./train2014/COCO_train2014_000000292211.jpg,Is he protected from injury ?,yes
-./train2014/COCO_train2014_000000292211.jpg,What is this child doing ?,laying down
-./train2014/COCO_train2014_000000057903.jpg,Is there a needle in the picture ?,yes
-./train2014/COCO_train2014_000000057903.jpg,How many pairs of scissors are there ?,1
-./train2014/COCO_train2014_000000057903.jpg,What is the name of the middle tool ?,file
-./train2014/COCO_train2014_000000116755.jpg,Is the child clean ?,no
-./train2014/COCO_train2014_000000116755.jpg,How many toes are over the edge of the board ?,5
-./train2014/COCO_train2014_000000116755.jpg,What is the person on ?,skateboard
-./train2014/COCO_train2014_000000090290.jpg,How is the toilet floor ?,clean
-./train2014/COCO_train2014_000000090290.jpg,Is the toilet seat up or down ?,down
-./train2014/COCO_train2014_000000090290.jpg,What color is the tile on the wall ?,blue
-./train2014/COCO_train2014_000000258129.jpg,Is the dog trying to catch the frisbee ?,yes
-./train2014/COCO_train2014_000000258129.jpg,Is there a frisbee on the ground ?,no
-./train2014/COCO_train2014_000000258129.jpg,Is this a park ?,yes
-./train2014/COCO_train2014_000000146849.jpg,Are there big waves to ride ?,no
-./train2014/COCO_train2014_000000146849.jpg,What is the white portion of the photo ?,wave
-./train2014/COCO_train2014_000000146849.jpg,What color is the surfboard ?,blue
-./train2014/COCO_train2014_000000117325.jpg,What color is the person's jacket ?,green
-./train2014/COCO_train2014_000000117325.jpg,Is the person alone ?,yes
-./train2014/COCO_train2014_000000117325.jpg,What is covering the ground ?,dirt
-./train2014/COCO_train2014_000000176736.jpg,Do people have on wetsuits ?,yes
-./train2014/COCO_train2014_000000176736.jpg,How many umbrellas are rainbow ?,3
-./train2014/COCO_train2014_000000176736.jpg,What color is the board ?,blue
-./train2014/COCO_train2014_000000506130.jpg,Why are people watching the skateboarder ?,doing tricks
-./train2014/COCO_train2014_000000506130.jpg,What color are the skateboarders front wheels ?,yellow
-./train2014/COCO_train2014_000000506130.jpg,Why is there an orange cone behind the skateboarder ?,marks
-./train2014/COCO_train2014_000000351004.jpg,Is the man in motion ?,yes
-./train2014/COCO_train2014_000000351004.jpg,What type of court is this ?,tennis
-./train2014/COCO_train2014_000000351004.jpg,Which direction is the ball traveling ?,up
-./train2014/COCO_train2014_000000107747.jpg,What time is it ?,2:15
-./train2014/COCO_train2014_000000107747.jpg,How many clocks on the building ?,1
-./train2014/COCO_train2014_000000107747.jpg,How tall is this building ?,unknown
-./train2014/COCO_train2014_000000093826.jpg,What is the man doing ?,surfing
-./train2014/COCO_train2014_000000093826.jpg,Is he wearing a wetsuit ?,no
-./train2014/COCO_train2014_000000093826.jpg,Can you see both of the man's arms ?,no
-./train2014/COCO_train2014_000000154259.jpg,Who took the picture ?,gary cole
-./train2014/COCO_train2014_000000154259.jpg,Does that dog look lonely ?,yes
-./train2014/COCO_train2014_000000154259.jpg,What color is the wheel ?,black
-./train2014/COCO_train2014_000000155340.jpg,How much does this cat weigh ?,5 lbs
-./train2014/COCO_train2014_000000155340.jpg,Why is the cup on the cat head ?,for this picture only
-./train2014/COCO_train2014_000000155340.jpg,What is inside the green cup ?,straw
-./train2014/COCO_train2014_000000129568.jpg,Which direction is the ball going ?,towards player
-./train2014/COCO_train2014_000000129568.jpg,What sport is this ?,tennis
-./train2014/COCO_train2014_000000129568.jpg,Is the player on the baseline or service line ?,baseline
-./train2014/COCO_train2014_000000354888.jpg,How many light bulbs are here ?,8
-./train2014/COCO_train2014_000000354888.jpg,Is this woman looking in a mirror ?,yes
-./train2014/COCO_train2014_000000354888.jpg,What color is the woman's hair ?,blonde
-./train2014/COCO_train2014_000000148144.jpg,Can you make out the people's faces easily ?,no
-./train2014/COCO_train2014_000000148144.jpg,What time was the photo taken ?,late afternoon
-./train2014/COCO_train2014_000000148144.jpg,Is the sun visible in this picture ?,yes
-./train2014/COCO_train2014_000000313873.jpg,How many people are wearing hats ?,2
-./train2014/COCO_train2014_000000313873.jpg,What are the boys looking at ?,phones
-./train2014/COCO_train2014_000000313873.jpg,How many boys are looking at their cell phones ?,2
-./train2014/COCO_train2014_000000336634.jpg,How many power outlets can be seen ?,2
-./train2014/COCO_train2014_000000336634.jpg,Is this a modern sink ?,yes
-./train2014/COCO_train2014_000000336634.jpg,Are there any towels on the rack ?,0
-./train2014/COCO_train2014_000000256611.jpg,Is someone a true appreciation of technology ?,yes
-./train2014/COCO_train2014_000000256611.jpg,If the power went out, where would you still be able to write notes ?,address book
-./train2014/COCO_train2014_000000256611.jpg,Why isn't the mouse plugged ?,wireless
-./train2014/COCO_train2014_000000046013.jpg,What room is this ?,kitchen
-./train2014/COCO_train2014_000000046013.jpg,What color is the tie ?,blue
-./train2014/COCO_train2014_000000046013.jpg,Is this the proper shirt to wear with a tie ?,no
-./train2014/COCO_train2014_000000166354.jpg,How many people are surfing ?,1
-./train2014/COCO_train2014_000000166354.jpg,Are there waves in the picture ?,yes
-./train2014/COCO_train2014_000000166354.jpg,Do you see a sea creature in the background ?,yes
-./train2014/COCO_train2014_000000451690.jpg,What does her shirt say ?,hotel
-./train2014/COCO_train2014_000000451690.jpg,What is the child holding ?,wii remotes
-./train2014/COCO_train2014_000000451690.jpg,Is the child wearing a bib ?,yes
-./train2014/COCO_train2014_000000254101.jpg,Why isn't someone getting rid of all this junk ?,hoarders
-./train2014/COCO_train2014_000000254101.jpg,What kind of structure is that ?,building
-./train2014/COCO_train2014_000000254101.jpg,What is the large light green appliance ?,fridge
-./train2014/COCO_train2014_000000144620.jpg,Are they sitting at a park ?,yes
-./train2014/COCO_train2014_000000144620.jpg,What surrounds the two people on the park bench ?,park and trees
-./train2014/COCO_train2014_000000144620.jpg,What does it say on the park bench ?,love story
-./train2014/COCO_train2014_000000178178.jpg,What material is the couch made of ?,velvet
-./train2014/COCO_train2014_000000178178.jpg,Is that a gray tabby ?,no
-./train2014/COCO_train2014_000000178178.jpg,What is beside the chair ?,table
-./train2014/COCO_train2014_000000020742.jpg,Is this woman outside ?,yes
-./train2014/COCO_train2014_000000020742.jpg,Is the woman wearing boots ?,yes
-./train2014/COCO_train2014_000000020742.jpg,What is the woman sitting on ?,bench
-./train2014/COCO_train2014_000000335692.jpg,What is this guy doing ?,eating
-./train2014/COCO_train2014_000000335692.jpg,Is the sandwich homemade ?,yes
-./train2014/COCO_train2014_000000335692.jpg,Does the guy have beards ?,yes
-./train2014/COCO_train2014_000000198706.jpg,How many zebras are there ?,3
-./train2014/COCO_train2014_000000198706.jpg,Where are the zebras ?,below
-./train2014/COCO_train2014_000000198706.jpg,Are there people here ?,no
-./train2014/COCO_train2014_000000251591.jpg,What color is the hose ?,white
-./train2014/COCO_train2014_000000251591.jpg,What color is the hydrant ?,red
-./train2014/COCO_train2014_000000251591.jpg,Is the hydrant spraying out water ?,no
-./train2014/COCO_train2014_000000519832.jpg,How many cups of coffee do you see ?,2
-./train2014/COCO_train2014_000000519832.jpg,Is a man waiting for his breakfast ?,yes
-./train2014/COCO_train2014_000000519832.jpg,Does the donut on the left look sweet ?,yes
-./train2014/COCO_train2014_000000339545.jpg,Is this a birthday party ?,yes
-./train2014/COCO_train2014_000000339545.jpg,Are there a lot of people ?,yes
-./train2014/COCO_train2014_000000339545.jpg,How many women are attending this party ?,2
-./train2014/COCO_train2014_000000024428.jpg,Why would the man put bananas in his suit ?,comedy
-./train2014/COCO_train2014_000000024428.jpg,What kind of hat is the man wearing ?,cowboy
-./train2014/COCO_train2014_000000024428.jpg,What fruit is shown here ?,banana
-./train2014/COCO_train2014_000000140633.jpg,What are they eating ?,pizza
-./train2014/COCO_train2014_000000140633.jpg,Is the person wearing a ring ?,yes
-./train2014/COCO_train2014_000000140633.jpg,How many slices is she cutting ?,6
-./train2014/COCO_train2014_000000576859.jpg,Is the metal material making up the clock experiencing some rust ?,yes
-./train2014/COCO_train2014_000000576859.jpg,Does the clock have a second hand ?,yes
-./train2014/COCO_train2014_000000576859.jpg,Is this a square clock ?,yes
-./train2014/COCO_train2014_000000404172.jpg,What color is the cat ?,orange
-./train2014/COCO_train2014_000000404172.jpg,Is this cat happy with its reflection ?,no
-./train2014/COCO_train2014_000000404172.jpg,Is there a mirror ?,yes
-./train2014/COCO_train2014_000000018299.jpg,Did a lot of work go into making this meal ?,no
-./train2014/COCO_train2014_000000018299.jpg,What color is the table ?,brown
-./train2014/COCO_train2014_000000018299.jpg,How many plates are there ?,5
-./train2014/COCO_train2014_000000410425.jpg,What type of plane is this ?,4-propeller
-./train2014/COCO_train2014_000000410425.jpg,What color is the tip of this plane ?,yellow
-./train2014/COCO_train2014_000000410425.jpg,Is this plane leaving a trail of smoke ?,yes
-./train2014/COCO_train2014_000000497498.jpg,What race is the child ?,asian
-./train2014/COCO_train2014_000000497498.jpg,What is the child holding ?,vegetable
-./train2014/COCO_train2014_000000497498.jpg,Is the child outside ?,yes
-./train2014/COCO_train2014_000000070985.jpg,What is the color of the men's shorts ?,orange
-./train2014/COCO_train2014_000000070985.jpg,Is the man wearing shoes ?,no
-./train2014/COCO_train2014_000000070985.jpg,Why is the pink object the most blurred ?,in motion
-./train2014/COCO_train2014_000000383909.jpg,Is the kite the same colors as the sky ?,yes
-./train2014/COCO_train2014_000000383909.jpg,What season was this picture taken in ?,spring
-./train2014/COCO_train2014_000000383909.jpg,What does the person have on his head ?,hat
-./train2014/COCO_train2014_000000177023.jpg,What is written on the plane ?,pacific southwest
-./train2014/COCO_train2014_000000177023.jpg,Is the photo colored ?,no
-./train2014/COCO_train2014_000000177023.jpg,Was this photo taken in the morning, at noon or at dusk ?,morning
-./train2014/COCO_train2014_000000223293.jpg,Is the bear alive ?,no
-./train2014/COCO_train2014_000000223293.jpg,What kind of bear is pictured ?,panda
-./train2014/COCO_train2014_000000223293.jpg,What's next to the bear ?,trees
-./train2014/COCO_train2014_000000565444.jpg,What brand of motorcycle is that ?,harley
-./train2014/COCO_train2014_000000565444.jpg,Is the man riding ?,motorcycle
-./train2014/COCO_train2014_000000565444.jpg,What objects are in the background ?,house trees
-./train2014/COCO_train2014_000000295804.jpg,What action is this person performing ?,pitching
-./train2014/COCO_train2014_000000295804.jpg,What number is on the person's Jersey ?,18
-./train2014/COCO_train2014_000000295804.jpg,What is the man doing ?,throwing
-./train2014/COCO_train2014_000000570196.jpg,What color is the dog ?,white
-./train2014/COCO_train2014_000000570196.jpg,What is the dog looking at ?,cows
-./train2014/COCO_train2014_000000570196.jpg,Is the fence broken ?,yes
-./train2014/COCO_train2014_000000486567.jpg,Is there a foam cooler in this picture ?,yes
-./train2014/COCO_train2014_000000486567.jpg,In what language is the writing on the umbrella written ?,chinese
-./train2014/COCO_train2014_000000486567.jpg,How many colors on the umbrellas can you see ?,4
-./train2014/COCO_train2014_000000351239.jpg,What is she wearing on her head ?,helmet
-./train2014/COCO_train2014_000000351239.jpg,Will she hit the ball ?,yes
-./train2014/COCO_train2014_000000351239.jpg,Why is the woman wearing gloves ?,safety
-./train2014/COCO_train2014_000000033828.jpg,What color is the ribbon on the back of the helmet ?,pink
-./train2014/COCO_train2014_000000033828.jpg,What are the metal pole structures for ?,skiing
-./train2014/COCO_train2014_000000033828.jpg,Do these people like snow ?,yes
-./train2014/COCO_train2014_000000275988.jpg,Does the giraffe appear to have horns on his head ?,yes
-./train2014/COCO_train2014_000000275988.jpg,Is there a tree behind the giraffe ?,yes
-./train2014/COCO_train2014_000000275988.jpg,What color is the giraffe ?,brown
-./train2014/COCO_train2014_000000155306.jpg,How much longer will the bus driver wait for the last passenger ?,2 minutes
-./train2014/COCO_train2014_000000155306.jpg,Where is this bus going ?,on tour
-./train2014/COCO_train2014_000000155306.jpg,What does the front of the bus say ?,national express
-./train2014/COCO_train2014_000000248674.jpg,Is there a bowl of beans on the plate ?,no
-./train2014/COCO_train2014_000000248674.jpg,Has the sandwich been eaten yet ?,yes
-./train2014/COCO_train2014_000000248674.jpg,Where is the fork ?,tray
-./train2014/COCO_train2014_000000364090.jpg,Is he having fun ?,yes
-./train2014/COCO_train2014_000000364090.jpg,Does the man on the surfboard have a shirt on ?,no
-./train2014/COCO_train2014_000000364090.jpg,What color is the man's surfboard ?,beige
-./train2014/COCO_train2014_000000181896.jpg,Is the bike tied to a pole ?,yes
-./train2014/COCO_train2014_000000181896.jpg,How many tires are on the bicycle ?,2
-./train2014/COCO_train2014_000000181896.jpg,What is sitting in the window ?,dog
-./train2014/COCO_train2014_000000454915.jpg,How is the monitor attached to the wall ?,bolted
-./train2014/COCO_train2014_000000454915.jpg,Is the monitor on or off ?,off
-./train2014/COCO_train2014_000000454915.jpg,Is the mouse wireless ?,yes
-./train2014/COCO_train2014_000000353427.jpg,Is this a healthy breakfast ?,yes
-./train2014/COCO_train2014_000000353427.jpg,What kind of food is this ?,donut
-./train2014/COCO_train2014_000000353427.jpg,What kind of food is on the plate ?,donut
-./train2014/COCO_train2014_000000331797.jpg,What image is in the shadow ?,gates
-./train2014/COCO_train2014_000000331797.jpg,Is this image in color ?,no
-./train2014/COCO_train2014_000000331797.jpg,What is the man sitting on ?,steps
-./train2014/COCO_train2014_000000062031.jpg,What sport is this picture of ?,ski jumping
-./train2014/COCO_train2014_000000062031.jpg,What are the people wearing red doing ?,watching
-./train2014/COCO_train2014_000000062031.jpg,Who is wearing a helmet ?,skier
-./train2014/COCO_train2014_000000311408.jpg,What utensils are on the bottom right plate ?,fork and knife
-./train2014/COCO_train2014_000000311408.jpg,What are some of the side dishes ?,soup, beans
-./train2014/COCO_train2014_000000311408.jpg,What color is the table ?,brown
-./train2014/COCO_train2014_000000220615.jpg,What color are the wheels ?,black
-./train2014/COCO_train2014_000000220615.jpg,What is this vehicle's purpose ?,street cleaning
-./train2014/COCO_train2014_000000220615.jpg,What does Limpio mean in English ?,clear
-./train2014/COCO_train2014_000000207556.jpg,What is the girl holding in her hands ?,tennis racket
-./train2014/COCO_train2014_000000207556.jpg,What does the girl have on her shirt ?,peace sign
-./train2014/COCO_train2014_000000207556.jpg,Is there a man standing behind the screen ?,yes
-./train2014/COCO_train2014_000000518455.jpg,Are there a lot of red shaped hearts ?,yes
-./train2014/COCO_train2014_000000518455.jpg,What holiday are these toy's related to ?,valentine's day
-./train2014/COCO_train2014_000000518455.jpg,Are there more red or White Bear ?,no
-./train2014/COCO_train2014_000000291410.jpg,What animal can been seen in this picture ?,cat
-./train2014/COCO_train2014_000000291410.jpg,Is this baby waving to someone ?,yes
-./train2014/COCO_train2014_000000291410.jpg,What natural phenomenon looks like this baby's attire ?,rainbow
-./train2014/COCO_train2014_000000506740.jpg,Is this man holding a cat ?,yes
-./train2014/COCO_train2014_000000506740.jpg,What color is the man's hair ?,brown
-./train2014/COCO_train2014_000000506740.jpg,Are the man's hands warm ?,yes
-./train2014/COCO_train2014_000000300321.jpg,Is the baseball player at home plate ?,yes
-./train2014/COCO_train2014_000000300321.jpg,What number of images are on this scene ?,3
-./train2014/COCO_train2014_000000300321.jpg,What is the name of the team ?,detroit tigers
-./train2014/COCO_train2014_000000377589.jpg,Is this a new cell phone ?,no
-./train2014/COCO_train2014_000000377589.jpg,Are there jeans in the image ?,yes
-./train2014/COCO_train2014_000000377589.jpg,How many people are having a conversation in the scene ?,2
-./train2014/COCO_train2014_000000040304.jpg,How many computers ?,6
-./train2014/COCO_train2014_000000040304.jpg,What type of lamp ?,desk
-./train2014/COCO_train2014_000000040304.jpg,Are these all apple computers ?,no
-./train2014/COCO_train2014_000000029817.jpg,How many doors is there in the reflection ?,2
-./train2014/COCO_train2014_000000029817.jpg,How many facets are in the picture ?,2
-./train2014/COCO_train2014_000000029817.jpg,What is the color scheme of the bathroom ?,brown and white
-./train2014/COCO_train2014_000000581513.jpg,What electronic device is on the wall ?,tv
-./train2014/COCO_train2014_000000581513.jpg,Are there windows ?,yes
-./train2014/COCO_train2014_000000581513.jpg,Is there a couch ?,no
-./train2014/COCO_train2014_000000410667.jpg,Who is the woman traveling with ?,child
-./train2014/COCO_train2014_000000410667.jpg,What color backpack is the lady carrying ?,red
-./train2014/COCO_train2014_000000410667.jpg,What colors are the train ?,black and red
-./train2014/COCO_train2014_000000524297.jpg,Was this photo taken recently ?,no
-./train2014/COCO_train2014_000000524297.jpg,Judging from the dress, was this taken in a Latin American country ?,yes
-./train2014/COCO_train2014_000000524297.jpg,What colors are shown in this picture ?,black, white
-./train2014/COCO_train2014_000000423097.jpg,IS this room colorful ?,no
-./train2014/COCO_train2014_000000423097.jpg,What room is this ?,bathroom
-./train2014/COCO_train2014_000000423097.jpg,What color is the tile ?,white
-./train2014/COCO_train2014_000000359085.jpg,What has the puppy been doing ?,digging
-./train2014/COCO_train2014_000000359085.jpg,What breed of dog is that ?,beagle
-./train2014/COCO_train2014_000000359085.jpg,What is on the puppy's nose ?,sand
-./train2014/COCO_train2014_000000051176.jpg,Is this bathroom dirty ?,no
-./train2014/COCO_train2014_000000051176.jpg,Is the toilet seat up ?,yes
-./train2014/COCO_train2014_000000051176.jpg,Is there poop in the toilet ?,no
-./train2014/COCO_train2014_000000183939.jpg,Is it sunny or overcast ?,sunny
-./train2014/COCO_train2014_000000183939.jpg,What type of animal is this ?,dog
-./train2014/COCO_train2014_000000183939.jpg,Does this look like a real photo ?,no
-./train2014/COCO_train2014_000000509677.jpg,Are all picnic tables blue ?,no
-./train2014/COCO_train2014_000000509677.jpg,What location is shown ?,beach
-./train2014/COCO_train2014_000000509677.jpg,Are the picnic tables situated on grass or sand ?,sand
-./train2014/COCO_train2014_000000332537.jpg,Was this picture taken in the last 5 years ?,no
-./train2014/COCO_train2014_000000332537.jpg,Is that a bathroom ?,no
-./train2014/COCO_train2014_000000332537.jpg,Is the light turned on ?,no
-./train2014/COCO_train2014_000000237162.jpg,What color is the picture ?,black and white
-./train2014/COCO_train2014_000000237162.jpg,Was this photo taken during WWII ?,no
-./train2014/COCO_train2014_000000237162.jpg,Is he skating on top of a pipe ?,yes
-./train2014/COCO_train2014_000000334110.jpg,What is this person doing ?,flying kite
-./train2014/COCO_train2014_000000334110.jpg,What limbs does the man need to perform the activity ?,arms
-./train2014/COCO_train2014_000000334110.jpg,Is the man closer to the camera than the kite ?,yes
-./train2014/COCO_train2014_000000559651.jpg,What color is the plate ?,green
-./train2014/COCO_train2014_000000559651.jpg,What kind of meat is this ?,pork
-./train2014/COCO_train2014_000000559651.jpg,What type of vegetable is on the plate ?,broccoli
-./train2014/COCO_train2014_000000282354.jpg,What is the girl doing ?,touching elephant's trunk
-./train2014/COCO_train2014_000000282354.jpg,What color is the child's shirt ?,brown
-./train2014/COCO_train2014_000000282354.jpg,What animal is that ?,elephant
-./train2014/COCO_train2014_000000524377.jpg,What is in the cup ?,mayo
-./train2014/COCO_train2014_000000524377.jpg,What are the orange things ?,sweet potatoes
-./train2014/COCO_train2014_000000524377.jpg,Is that bacon from a delicatessen ?,yes
-./train2014/COCO_train2014_000000535804.jpg,Is it a cloudy day or clear day ?,cloudy day
-./train2014/COCO_train2014_000000535804.jpg,What kind of animals can you see ?,cows
-./train2014/COCO_train2014_000000535804.jpg,How many cows are there ?,2
-./train2014/COCO_train2014_000000329394.jpg,Did the man just hit the tennis ball ?,yes
-./train2014/COCO_train2014_000000329394.jpg,What color are the man's socks ?,white
-./train2014/COCO_train2014_000000329394.jpg,Is the man in motion ?,yes
-./train2014/COCO_train2014_000000333040.jpg,What is this man's name ?,wright
-./train2014/COCO_train2014_000000333040.jpg,Is the man wearing protective gear ?,yes
-./train2014/COCO_train2014_000000333040.jpg,Why is the man wearing a shin guard ?,protection
-./train2014/COCO_train2014_000000126301.jpg,Is she using a battery-operated device ?,yes
-./train2014/COCO_train2014_000000126301.jpg,What is on the ground ?,bag
-./train2014/COCO_train2014_000000126301.jpg,What mode of transportation did she use to get where she is ?,bicycle
-./train2014/COCO_train2014_000000047074.jpg,How many yellow items are in the photo ?,24
-./train2014/COCO_train2014_000000047074.jpg,What fruits are in the bowl ?,bananas and apples
-./train2014/COCO_train2014_000000047074.jpg,Is there a computer in the kitchen ?,yes
-./train2014/COCO_train2014_000000073647.jpg,Is this man playing indoors ?,no
-./train2014/COCO_train2014_000000073647.jpg,How can you tell the temperature is a bit cool ?,yes
-./train2014/COCO_train2014_000000073647.jpg,What sport is being played ?,tennis
-./train2014/COCO_train2014_000000342374.jpg,How many glasses are on the table ?,5
-./train2014/COCO_train2014_000000342374.jpg,Are these adults ?,no
-./train2014/COCO_train2014_000000342374.jpg,Do the kids look like they are having fun ?,yes
-./train2014/COCO_train2014_000000550093.jpg,What is she holding ?,socks
-./train2014/COCO_train2014_000000550093.jpg,Where is the little girl ?,bedroom
-./train2014/COCO_train2014_000000550093.jpg,Is the door open ?,no
-./train2014/COCO_train2014_000000067084.jpg,Which player on the field head butted the ball ?,18
-./train2014/COCO_train2014_000000067084.jpg,What number is on the girl in black ?,18
-./train2014/COCO_train2014_000000067084.jpg,Are these two girls competing ?,yes
-./train2014/COCO_train2014_000000256308.jpg,What kind of area is this ?,street
-./train2014/COCO_train2014_000000256308.jpg,What color is his jacket ?,red
-./train2014/COCO_train2014_000000256308.jpg,What is the man on the sidewalk doing ?,riding bicycle
-./train2014/COCO_train2014_000000276208.jpg,Is there any plants in the room ?,no
-./train2014/COCO_train2014_000000276208.jpg,What animal do you see ?,cat
-./train2014/COCO_train2014_000000276208.jpg,How many pillows are on the couch ?,2
-./train2014/COCO_train2014_000000123970.jpg,Where is this cat laying ?,umbrella
-./train2014/COCO_train2014_000000123970.jpg,What color is the cat ?,blonde
-./train2014/COCO_train2014_000000123970.jpg,What color is the fabric ?,blue
-./train2014/COCO_train2014_000000017226.jpg,Do these airplanes have jets or propellers ?,propellers
-./train2014/COCO_train2014_000000017226.jpg,Are these planes flying ?,yes
-./train2014/COCO_train2014_000000017226.jpg,What color are these planes ?,yellow
-./train2014/COCO_train2014_000000050105.jpg,Is there any icing on these treats ?,yes
-./train2014/COCO_train2014_000000050105.jpg,What color is the platter ?,white
-./train2014/COCO_train2014_000000050105.jpg,How many treats are there ?,12
-./train2014/COCO_train2014_000000466681.jpg,Is this an intersection ?,yes
-./train2014/COCO_train2014_000000466681.jpg,Can you turn right ?,yes
-./train2014/COCO_train2014_000000466681.jpg,Is art present ?,yes
-./train2014/COCO_train2014_000000467332.jpg,Is she sleeping ?,yes
-./train2014/COCO_train2014_000000467332.jpg,What is the logo on the baby's shirt ?,hearts
-./train2014/COCO_train2014_000000467332.jpg,What is the baby holding on her hand ?,teddy bear
-./train2014/COCO_train2014_000000274978.jpg,Is this man walking with a surfboard ?,yes
-./train2014/COCO_train2014_000000274978.jpg,Whose name is on the photo ?,manolo guijarro
-./train2014/COCO_train2014_000000274978.jpg,Is the person wearing a wetsuit ?,yes
-./train2014/COCO_train2014_000000230863.jpg,Are the bleachers full ?,no
-./train2014/COCO_train2014_000000230863.jpg,What sport is being played ?,soccer
-./train2014/COCO_train2014_000000230863.jpg,Are the players running toward's the ball ?,yes
-./train2014/COCO_train2014_000000477579.jpg,What color is the girls outfit ?,pink
-./train2014/COCO_train2014_000000477579.jpg,Is there a cat on this girls shirt ?,yes
-./train2014/COCO_train2014_000000477579.jpg,What food item is the girl eating ?,donut
-./train2014/COCO_train2014_000000475158.jpg,Is this a snowboarder ?,yes
-./train2014/COCO_train2014_000000475158.jpg,How many faces can be seen ?,1
-./train2014/COCO_train2014_000000475158.jpg,Is he wearing a hat ?,yes
-./train2014/COCO_train2014_000000205724.jpg,What do the signs on the apples indicate ?,price
-./train2014/COCO_train2014_000000205724.jpg,How many colors of apples are there ?,3
-./train2014/COCO_train2014_000000205724.jpg,What is being sold ?,apple
-./train2014/COCO_train2014_000000279693.jpg,What he did he jump from ?,stairs
-./train2014/COCO_train2014_000000279693.jpg,Where is the bare tree ?,right side
-./train2014/COCO_train2014_000000279693.jpg,Is the surfboard casting a shadow ?,yes
-./train2014/COCO_train2014_000000121047.jpg,Do you have to train for this sport ?,yes
-./train2014/COCO_train2014_000000121047.jpg,What sport is this ?,horsebacking
-./train2014/COCO_train2014_000000121047.jpg,What colors alternate on the railing ?,red and white
-./train2014/COCO_train2014_000000044776.jpg,What is laying on the bed ?,dog
-./train2014/COCO_train2014_000000044776.jpg,Are both pictures of the same animal ?,yes
-./train2014/COCO_train2014_000000044776.jpg,What color is the sheet ?,white
-./train2014/COCO_train2014_000000292752.jpg,How many sailboats are in the picture ?,2
-./train2014/COCO_train2014_000000292752.jpg,What color is the nearest sailboat ?,white
-./train2014/COCO_train2014_000000292752.jpg,Are the boats moving ?,yes
-./train2014/COCO_train2014_000000303788.jpg,Is this person to lazy to ski ?,no
-./train2014/COCO_train2014_000000303788.jpg,Is the man snowboarding ?,no
-./train2014/COCO_train2014_000000303788.jpg,What is on the ground ?,snow
-./train2014/COCO_train2014_000000347840.jpg,Is this dish suitable for a individual adhering to a vegan diet ?,no
-./train2014/COCO_train2014_000000347840.jpg,Are there olives on this pizza ?,yes
-./train2014/COCO_train2014_000000347840.jpg,Where is the pizza ?,on plate
-./train2014/COCO_train2014_000000333916.jpg,Is the bird flying ?,no
-./train2014/COCO_train2014_000000333916.jpg,What color is the bird's head ?,yellow
-./train2014/COCO_train2014_000000333916.jpg,What color is the background ?,green
-./train2014/COCO_train2014_000000328751.jpg,Is this high speed train ?,yes
-./train2014/COCO_train2014_000000328751.jpg,What is crossing on top of the train station ?,people
-./train2014/COCO_train2014_000000328751.jpg,What track is this train on ?,right
-./train2014/COCO_train2014_000000246636.jpg,How many boats ?,4
-./train2014/COCO_train2014_000000246636.jpg,What color is the closest women's shirt ?,red
-./train2014/COCO_train2014_000000246636.jpg,Are these canoes overcrowded ?,yes
-./train2014/COCO_train2014_000000405541.jpg,What breed of cat is in the photo ?,siamese
-./train2014/COCO_train2014_000000405541.jpg,What is the cat on ?,towel
+./train2014/COCO_train2014_000000487025.jpg , What shape is the bench seat ? , oval
+./train2014/COCO_train2014_000000487025.jpg , Is there a shadow ? , yes
+./train2014/COCO_train2014_000000487025.jpg , Is this one bench or multiple benches ? , 1
+./train2014/COCO_train2014_000000078077.jpg , Is this a modern train ? , no
+./train2014/COCO_train2014_000000078077.jpg , What color is the stripe on the train ? , white
+./train2014/COCO_train2014_000000078077.jpg , What is on the other side of the train ? , trees
+./train2014/COCO_train2014_000000501867.jpg , Is the bus driver on any kind of antidepressant medication ? , no
+./train2014/COCO_train2014_000000501867.jpg , Is the bus moving ? , yes
+./train2014/COCO_train2014_000000501867.jpg , What color is the bus ? , red
+./train2014/COCO_train2014_000000529524.jpg , Are these items for sale ? , yes
+./train2014/COCO_train2014_000000529524.jpg , What is for sale under this tent ? , every vegetable
+./train2014/COCO_train2014_000000529524.jpg , Is this a grocery store ? , no
+./train2014/COCO_train2014_000000497494.jpg , Is the dog on the bed ? , black lab
+./train2014/COCO_train2014_000000497494.jpg , What is in the frame over the bed ? , picture of 2 men
+./train2014/COCO_train2014_000000497494.jpg , Where is the dog ? , bed
+./train2014/COCO_train2014_000000166702.jpg , What color are the clock hands ? , gold
+./train2014/COCO_train2014_000000166702.jpg , What direction is the weathervane pointing ? , southeast
+./train2014/COCO_train2014_000000166702.jpg , What term describes a bereaved wife and the walk at the top of this building ? , widow
+./train2014/COCO_train2014_000000318857.jpg , Where are the magazines in this picture ? , on stool
+./train2014/COCO_train2014_000000318857.jpg , What animal is on the man's lap ? , kitten
+./train2014/COCO_train2014_000000318857.jpg , What's in the man's right hand ? , nothing
+./train2014/COCO_train2014_000000480082.jpg , What kind of toppings are on this pizza ? , cheese and spinach
+./train2014/COCO_train2014_000000480082.jpg , What is the specific name of this particular pizza recipe ? , margherita
+./train2014/COCO_train2014_000000480082.jpg , Is this edible ? , yes
+./train2014/COCO_train2014_000000423964.jpg , What city is this taken in ? , venice
+./train2014/COCO_train2014_000000423964.jpg , Based on the size of the wake what is the approximate speed of the boat ? , 5 mph
+./train2014/COCO_train2014_000000423964.jpg , Are there any water skiers in the picture ? , no
+./train2014/COCO_train2014_000000081074.jpg , What color is the desk ? , brown
+./train2014/COCO_train2014_000000081074.jpg , What color are the laptops ? , black
+./train2014/COCO_train2014_000000081074.jpg , What color is the keyboard ? , white
+./train2014/COCO_train2014_000000234391.jpg , How does the water appear ? , calm
+./train2014/COCO_train2014_000000234391.jpg , What appears to be growing in the back of the scene ? , bird
+./train2014/COCO_train2014_000000234391.jpg , Is the bird by water ? , no
+./train2014/COCO_train2014_000000247712.jpg , What color is this person's shirt ? , red
+./train2014/COCO_train2014_000000247712.jpg , How many skateboards in the photo ? , 2
+./train2014/COCO_train2014_000000247712.jpg , What color is the man's pants ? , black
+./train2014/COCO_train2014_000000535130.jpg , Why is the woman's head blurry ? , to block face
+./train2014/COCO_train2014_000000535130.jpg , Who is wearing a diamond ring ? , doctor
+./train2014/COCO_train2014_000000535130.jpg , What kind of room is this ? , doctor's office
+./train2014/COCO_train2014_000000358405.jpg , What kind of drink is in the glass the lady is holding ? , wine
+./train2014/COCO_train2014_000000358405.jpg , What color is the man's shirt ? , purple
+./train2014/COCO_train2014_000000358405.jpg , Are these people, most likely,  experiencing a work day ? , no
+./train2014/COCO_train2014_000000464605.jpg , Is the person on the snowboard a man ? , yes
+./train2014/COCO_train2014_000000464605.jpg , How many skiers are in the air ? , 1
+./train2014/COCO_train2014_000000464605.jpg , What color jacket is this person wearing ? , white
+./train2014/COCO_train2014_000000272480.jpg , How many photos are shown ? , 4
+./train2014/COCO_train2014_000000272480.jpg , What is pictured in the upper left photo ? , kitchen
+./train2014/COCO_train2014_000000272480.jpg , What kind of rooms are shown ? , kitchens
+./train2014/COCO_train2014_000000291855.jpg , Is this a private bus ? , no
+./train2014/COCO_train2014_000000291855.jpg , Where is the blue bike ? , on front of bus
+./train2014/COCO_train2014_000000291855.jpg , What number bus is pictured ? , 4080
+./train2014/COCO_train2014_000000175121.jpg , Is there a white sign in the distance ? , road closed
+./train2014/COCO_train2014_000000175121.jpg , Is the road open ? , no
+./train2014/COCO_train2014_000000175121.jpg , What kind of car is parked ? , bus
+./train2014/COCO_train2014_000000131780.jpg , What is the theme of the kites' designs ? , sea animals
+./train2014/COCO_train2014_000000131780.jpg , What is on top of the SUV ? , storage unit
+./train2014/COCO_train2014_000000131780.jpg , Is there a man dressed in blue ? , yes
+./train2014/COCO_train2014_000000542165.jpg , What color are the dogs eyes ? , green and blue
+./train2014/COCO_train2014_000000542165.jpg , Does this picture look scary ? , yes
+./train2014/COCO_train2014_000000542165.jpg , Can you see the dog's teeth ? , yes
+./train2014/COCO_train2014_000000245609.jpg , What sort of structures are similar in the background ? , gazebos
+./train2014/COCO_train2014_000000245609.jpg , What is this person doing ? , falling
+./train2014/COCO_train2014_000000245609.jpg , Did the person fall off his surfboard ? , yes
+./train2014/COCO_train2014_000000129726.jpg , What is he throwing ? , frisbee
+./train2014/COCO_train2014_000000129726.jpg , Does the man have a beard ? , yes
+./train2014/COCO_train2014_000000129726.jpg , What color is the man's shirt ? , red
+./train2014/COCO_train2014_000000530160.jpg , Is this person holding an apple ? , yes
+./train2014/COCO_train2014_000000530160.jpg , Is apple ripe ? , yes
+./train2014/COCO_train2014_000000530160.jpg , Which end of the Apple is showing ? , bottom
+./train2014/COCO_train2014_000000047386.jpg , Is the man the owner of the dog ? , yes
+./train2014/COCO_train2014_000000047386.jpg , What kind of hat is the man wearing ? , sun hat
+./train2014/COCO_train2014_000000047386.jpg , What activity are they doing ? , walking
+./train2014/COCO_train2014_000000208011.jpg , How many chairs are there in this picture ? , 24
+./train2014/COCO_train2014_000000208011.jpg , How many cats are in the picture ? , 2
+./train2014/COCO_train2014_000000208011.jpg , What colors are the chairs ? , green
+./train2014/COCO_train2014_000000337726.jpg , What is the man doing ? , using his phone
+./train2014/COCO_train2014_000000337726.jpg , What color is the bench in the living room ? , black
+./train2014/COCO_train2014_000000337726.jpg , Does the man have company ? , no
+./train2014/COCO_train2014_000000467063.jpg , What is on the man's head ? , cowboy hat
+./train2014/COCO_train2014_000000467063.jpg , Is this man trying to attack the cow with his horse ? , no
+./train2014/COCO_train2014_000000467063.jpg , Who is winning ? , cow
+./train2014/COCO_train2014_000000576072.jpg , Are there two cameras on the windowsill ? , yes
+./train2014/COCO_train2014_000000576072.jpg , What type of cat is this ? , house cat
+./train2014/COCO_train2014_000000576072.jpg , Is the laptop on ? , yes
+./train2014/COCO_train2014_000000367961.jpg , What kind of bus is this ? , tour
+./train2014/COCO_train2014_000000367961.jpg , Is the bus moving ? , no
+./train2014/COCO_train2014_000000367961.jpg , What type of fence is in the background ? , metal
+./train2014/COCO_train2014_000000245326.jpg , What two letters are on the winning horses facial cover ? , wv
+./train2014/COCO_train2014_000000245326.jpg , What sport is this ? , horse riding
+./train2014/COCO_train2014_000000245326.jpg , What horse race is taking place ? , kentucky derby
+./train2014/COCO_train2014_000000311667.jpg , What is the around the boy's neck ? , tie
+./train2014/COCO_train2014_000000311667.jpg , Are these people getting ready for a special occasion ? , yes
+./train2014/COCO_train2014_000000311667.jpg , Does the boy look happy ? , no
+./train2014/COCO_train2014_000000062662.jpg , Could these buildings be in Europe ? , yes
+./train2014/COCO_train2014_000000062662.jpg , What time is on the clock ? , 1:20
+./train2014/COCO_train2014_000000062662.jpg , How tall are the buildings ? , very
+./train2014/COCO_train2014_000000393286.jpg , Is the banana freshly peeled ? , yes
+./train2014/COCO_train2014_000000393286.jpg , What is the orange thing ? , cushion
+./train2014/COCO_train2014_000000393286.jpg , Is the banana closed ? , no
+./train2014/COCO_train2014_000000198037.jpg , What is the object called ? , mirror
+./train2014/COCO_train2014_000000198037.jpg , Is this a flash photo ? , no
+./train2014/COCO_train2014_000000198037.jpg , Is this an antique mirror ? , yes
+./train2014/COCO_train2014_000000430621.jpg , Is the batter wearing a helmet ? , yes
+./train2014/COCO_train2014_000000430621.jpg , What game are these people playing ? , baseball
+./train2014/COCO_train2014_000000430621.jpg , Are these kids or adult ? , kids
+./train2014/COCO_train2014_000000488962.jpg , What type of fruit is on the counter ? , banana
+./train2014/COCO_train2014_000000488962.jpg , Is this a party ? , no
+./train2014/COCO_train2014_000000488962.jpg , What is the big fruit above the man's head ? , banana
+./train2014/COCO_train2014_000000259721.jpg , How many ovens are there ? , 2
+./train2014/COCO_train2014_000000259721.jpg , What room is this ? , kitchen
+./train2014/COCO_train2014_000000259721.jpg , Is this area well decorated ? ? , yes
+./train2014/COCO_train2014_000000362363.jpg , How many animals can be seen ? , 1
+./train2014/COCO_train2014_000000362363.jpg , Is this animal drinking water ? , no
+./train2014/COCO_train2014_000000362363.jpg , What kind of animal is this ? , bear
+./train2014/COCO_train2014_000000459736.jpg , What shapes make up the doors ? , squares
+./train2014/COCO_train2014_000000459736.jpg , How many types of animals are represented in this picture ? , 2
+./train2014/COCO_train2014_000000459736.jpg , Where is the cow seated facing ? , to right
+./train2014/COCO_train2014_000000073461.jpg , What bird is in this picture ? , crow
+./train2014/COCO_train2014_000000073461.jpg , Is the bird making noise ? , yes
+./train2014/COCO_train2014_000000073461.jpg , How many birds can be seen ? , 2
+./train2014/COCO_train2014_000000579567.jpg , Is the bird sitting on a plant ? , yes
+./train2014/COCO_train2014_000000579567.jpg , Is this bird blinking ? , no
+./train2014/COCO_train2014_000000579567.jpg , How many birds ? , 1
+./train2014/COCO_train2014_000000056040.jpg , What is in the girl's mouth ? , toothbrush
+./train2014/COCO_train2014_000000056040.jpg , Is there a picnic table in the photo ? , yes
+./train2014/COCO_train2014_000000056040.jpg , Is the girl's hair color natural ? , no
+./train2014/COCO_train2014_000000224975.jpg , What color are the pants ? , blue
+./train2014/COCO_train2014_000000224975.jpg , Is this person in the air ? , yes
+./train2014/COCO_train2014_000000224975.jpg , What color are the skis ? , blue
+./train2014/COCO_train2014_000000382316.jpg , What color is the seat ? , red
+./train2014/COCO_train2014_000000382316.jpg , Is this a cloudy day ? , yes
+./train2014/COCO_train2014_000000382316.jpg , What is the man carrying ? , umbrella
+./train2014/COCO_train2014_000000301109.jpg , What are the people doing ? , wii
+./train2014/COCO_train2014_000000301109.jpg , Is the lamp light on ? , yes
+./train2014/COCO_train2014_000000301109.jpg , Is there a painting ? , yes
+./train2014/COCO_train2014_000000115005.jpg , How many keyboards are visible ? , 3
+./train2014/COCO_train2014_000000115005.jpg , Why are there 4 monitors ? , to multitask
+./train2014/COCO_train2014_000000115005.jpg , Is there a two wheeled object in the room ? , yes
+./train2014/COCO_train2014_000000027844.jpg , What sign is seen ? , bus stop
+./train2014/COCO_train2014_000000027844.jpg , What does the sign say ? , bus stop request headstop
+./train2014/COCO_train2014_000000027844.jpg , What action would make this sign more visible ? , trim limbs
+./train2014/COCO_train2014_000000490481.jpg , How many sprinkles are on this donut ? , many
+./train2014/COCO_train2014_000000490481.jpg , Is the donut whole ? , no
+./train2014/COCO_train2014_000000490481.jpg , Is it storming outside ? , no
+./train2014/COCO_train2014_000000518948.jpg , Is the woman in the middle the Mom of the two boys ? , yes
+./train2014/COCO_train2014_000000518948.jpg , What color shoes does the boy on the right have ? , dirty white
+./train2014/COCO_train2014_000000518948.jpg , Are they all in college ? , no
+./train2014/COCO_train2014_000000567121.jpg , What color is her visor ? , white
+./train2014/COCO_train2014_000000567121.jpg , Who is the sponsor shown at the top left ? , medbank
+./train2014/COCO_train2014_000000567121.jpg , What color is her dress ? , red
+./train2014/COCO_train2014_000000214927.jpg , Is the pizza on a plate or napkin ? , plate
+./train2014/COCO_train2014_000000214927.jpg , Is this a pizza ? , yes
+./train2014/COCO_train2014_000000214927.jpg , Does the person who ordered this pizza like red sauce ? , no
+./train2014/COCO_train2014_000000401720.jpg , What kind of horse is this ? , gray
+./train2014/COCO_train2014_000000401720.jpg , Is there a blanket under the saddle ? , no
+./train2014/COCO_train2014_000000401720.jpg , Is it daytime ? , yes
+./train2014/COCO_train2014_000000262098.jpg , Have you visited this zoo ? , yes
+./train2014/COCO_train2014_000000262098.jpg , Are there buildings in the background ? , yes
+./train2014/COCO_train2014_000000262098.jpg , Is it sunny ? , yes
+./train2014/COCO_train2014_000000371647.jpg , Why is it dark on one side of the room ? , no lighting
+./train2014/COCO_train2014_000000371647.jpg , What is on the wall ? , clock
+./train2014/COCO_train2014_000000371647.jpg , Is a light on ? , yes
+./train2014/COCO_train2014_000000546161.jpg , What sport is being played in this picture ? , baseball
+./train2014/COCO_train2014_000000546161.jpg , Are they boxing ? , no
+./train2014/COCO_train2014_000000546161.jpg , Is he safe ? , no
+./train2014/COCO_train2014_000000006107.jpg , What sport is this ? , baseball
+./train2014/COCO_train2014_000000006107.jpg , What is the boy in black doing ? , getting ready to swing bat
+./train2014/COCO_train2014_000000006107.jpg , What is the boy throwing ? , ball
+./train2014/COCO_train2014_000000461701.jpg , Are these real bears ? , no
+./train2014/COCO_train2014_000000461701.jpg , Is there a brown bear ? , yes
+./train2014/COCO_train2014_000000461701.jpg , How many bears ? , 28
+./train2014/COCO_train2014_000000028109.jpg , Is the game in progress ? , yes
+./train2014/COCO_train2014_000000028109.jpg , What color are the man's shoes ? , black and white
+./train2014/COCO_train2014_000000028109.jpg , What company has marketing placed around the court ? , kia
+./train2014/COCO_train2014_000000475967.jpg , Does the dog like what he's eating ? , yes
+./train2014/COCO_train2014_000000475967.jpg , Is this an old dog or a young dog ? , old dog
+./train2014/COCO_train2014_000000475967.jpg , Where is a man in a blue and white striped shirt ? , on ground
+./train2014/COCO_train2014_000000520112.jpg , What are the men doing ? , drinking wine
+./train2014/COCO_train2014_000000520112.jpg , What kind of glasses are on the table ? , wine
+./train2014/COCO_train2014_000000520112.jpg , How old are these men ? , 60
+./train2014/COCO_train2014_000000000797.jpg , Are the animals fighting ? , yes
+./train2014/COCO_train2014_000000000797.jpg , What the elephant's tusks made of ? , ivory
+./train2014/COCO_train2014_000000000797.jpg , Does one of the elephants appear to smile ? , yes
+./train2014/COCO_train2014_000000504259.jpg , Are all of the sheep facing the same direction ? , yes
+./train2014/COCO_train2014_000000504259.jpg , How many sheep are standing in picture ? , 1
+./train2014/COCO_train2014_000000504259.jpg , Does this animal have the makings of a Christmas sweater on its back ? , yes
+./train2014/COCO_train2014_000000271038.jpg , Is this a public building ? , yes
+./train2014/COCO_train2014_000000271038.jpg , Is there a clock ? , yes
+./train2014/COCO_train2014_000000271038.jpg , Is it snowing here ? , no
+./train2014/COCO_train2014_000000104368.jpg , What is this person eating ? , pizza
+./train2014/COCO_train2014_000000104368.jpg , How many are wearing glasses ? , 4
+./train2014/COCO_train2014_000000104368.jpg , How many wheelchairs ? , 1
+./train2014/COCO_train2014_000000261387.jpg , What color are the roses ? , red, white and blue
+./train2014/COCO_train2014_000000261387.jpg , Are these cupcakes ? , yes
+./train2014/COCO_train2014_000000261387.jpg , How many cupcakes do not contain the color blue ? , 13
+./train2014/COCO_train2014_000000233381.jpg , Is this a child on the surfboard ? , no
+./train2014/COCO_train2014_000000233381.jpg , Is he wearing the right type of suit ? , yes
+./train2014/COCO_train2014_000000233381.jpg , Is this a sexy senior citizen ? , yes
+./train2014/COCO_train2014_000000267831.jpg , Are the men fighting ? , no
+./train2014/COCO_train2014_000000267831.jpg , Which man is controlling the kite ? , man on right
+./train2014/COCO_train2014_000000267831.jpg , Is this a beach ? , yes
+./train2014/COCO_train2014_000000136653.jpg , What is the man hanging from ? , parachute
+./train2014/COCO_train2014_000000136653.jpg , The man is hanging from a boat ? , no
+./train2014/COCO_train2014_000000136653.jpg , What is attached to the man's feet ? , wakeboard
+./train2014/COCO_train2014_000000558567.jpg , Is it night time ? , yes
+./train2014/COCO_train2014_000000558567.jpg , Is this a city street ? , yes
+./train2014/COCO_train2014_000000558567.jpg , Can you see people in the photo ? , no
+./train2014/COCO_train2014_000000238203.jpg , What color is the photo ? , black and white
+./train2014/COCO_train2014_000000238203.jpg , What kind of animals are in the field ? , horses
+./train2014/COCO_train2014_000000238203.jpg , Is this image in black and white ? , yes
+./train2014/COCO_train2014_000000025241.jpg , What part of the body are these worn around ? , neck
+./train2014/COCO_train2014_000000025241.jpg , How many ties are there ? , 2
+./train2014/COCO_train2014_000000025241.jpg , Are these mostly worn by men or women ? , men
+./train2014/COCO_train2014_000000523186.jpg , Is the snow in this picture probably natural, or probably man-made ? , natural
+./train2014/COCO_train2014_000000523186.jpg , Is the skier in this picture wearing safety gear ? , yes
+./train2014/COCO_train2014_000000523186.jpg , Is this run a double black diamond ? , no
+./train2014/COCO_train2014_000000391748.jpg , Did he make the shot ? , no
+./train2014/COCO_train2014_000000391748.jpg , Is someone wearing a hat ? , yes
+./train2014/COCO_train2014_000000391748.jpg , What game are the men playing ? , frisbee
+./train2014/COCO_train2014_000000082759.jpg , Is this man in the military ? , yes
+./train2014/COCO_train2014_000000082759.jpg , Who is the man ? , general
+./train2014/COCO_train2014_000000082759.jpg , What color is the man's jacket ? , beige
+./train2014/COCO_train2014_000000213963.jpg , Is the cup clean ? , no
+./train2014/COCO_train2014_000000213963.jpg , What kind of cup is this ? , coffee
+./train2014/COCO_train2014_000000213963.jpg , Is there a keyboard in the foreground of this picture ? , yes
+./train2014/COCO_train2014_000000473102.jpg , What color is the man's shirt ? , green
+./train2014/COCO_train2014_000000473102.jpg , What is the man sitting in front of ? , computer
+./train2014/COCO_train2014_000000473102.jpg , Is this building in a city ? , yes
+./train2014/COCO_train2014_000000576225.jpg , How many different flowers are on the table ? , 2
+./train2014/COCO_train2014_000000576225.jpg , Is she a statue ? , no
+./train2014/COCO_train2014_000000576225.jpg , What color is his bag ? , pink
+./train2014/COCO_train2014_000000404486.jpg , How many donuts appear to have NOT been flipped ? , 6
+./train2014/COCO_train2014_000000404486.jpg , What are the donuts on ? , conveyor belt
+./train2014/COCO_train2014_000000404486.jpg , How man donuts are there ? , 22
+./train2014/COCO_train2014_000000262495.jpg , What is the baby wearing ? , onesie
+./train2014/COCO_train2014_000000262495.jpg , How many feet is the child standing on ? , 1
+./train2014/COCO_train2014_000000262495.jpg , What is this baby holding ? , bottle
+./train2014/COCO_train2014_000000547938.jpg , What symbol appears on the tail of the airplane ? , crown
+./train2014/COCO_train2014_000000547938.jpg , Are there any buildings in the background ? , yes
+./train2014/COCO_train2014_000000547938.jpg , Is this an urban area ? , no
+./train2014/COCO_train2014_000000293822.jpg , What color shirt is this person wearing ? , blue
+./train2014/COCO_train2014_000000293822.jpg , Is this person wearing a hat ? , yes
+./train2014/COCO_train2014_000000293822.jpg , Is this in an empty pool ? , no
+./train2014/COCO_train2014_000000062941.jpg , What country owns this airline ? , usa
+./train2014/COCO_train2014_000000062941.jpg , Is the plane in the air ? , yes
+./train2014/COCO_train2014_000000062941.jpg , Where is the plane ? , in air
+./train2014/COCO_train2014_000000090051.jpg , How many cows do you see ? , at least 4
+./train2014/COCO_train2014_000000090051.jpg , IS one of the cows drinking water ? , yes
+./train2014/COCO_train2014_000000090051.jpg , What color are the cows ? , black and white
+./train2014/COCO_train2014_000000121731.jpg , Are there trees visible ? , yes
+./train2014/COCO_train2014_000000121731.jpg , Is it raining in the picture ? , no
+./train2014/COCO_train2014_000000121731.jpg , What is the man herding ? , cows and sheep
+./train2014/COCO_train2014_000000485247.jpg , Is it bright outside ? , yes
+./train2014/COCO_train2014_000000485247.jpg , Is there a sink in this room ? , yes
+./train2014/COCO_train2014_000000485247.jpg , Is this natural or artificial light ? , natural
+./train2014/COCO_train2014_000000279401.jpg , Do the people look tired ? , yes
+./train2014/COCO_train2014_000000279401.jpg , How many people are wearing hats ? , 4
+./train2014/COCO_train2014_000000279401.jpg , What are the people doing ? , skiing
+./train2014/COCO_train2014_000000491888.jpg , How many jellies are there on the table ? , 3
+./train2014/COCO_train2014_000000491888.jpg , What beverage is in the glass ? , juice
+./train2014/COCO_train2014_000000491888.jpg , What color is the tablecloth ? , white
+./train2014/COCO_train2014_000000569723.jpg , Are there any stripes on the ground ? , yes
+./train2014/COCO_train2014_000000569723.jpg , How many people are watching the man ? , 3
+./train2014/COCO_train2014_000000569723.jpg , What game is this ? , tennis
+./train2014/COCO_train2014_000000533957.jpg , What food is on the plate ? , pizza
+./train2014/COCO_train2014_000000533957.jpg , What does the two thumbs up the boy is signifying ? , it's good food
+./train2014/COCO_train2014_000000533957.jpg , Where are the books ? , school books
+./train2014/COCO_train2014_000000491400.jpg , Is this umbrella one color ? , no
+./train2014/COCO_train2014_000000491400.jpg , Why does the man need the umbrella if it's not raining ? , shade
+./train2014/COCO_train2014_000000491400.jpg , What is this man sitting on ? , bench
+./train2014/COCO_train2014_000000443427.jpg , What color is the mans' jacket ? , blue
+./train2014/COCO_train2014_000000443427.jpg , Is the man getting on the train ? , no
+./train2014/COCO_train2014_000000443427.jpg , What holiday has the same theme colors as the train ? , christmas
+./train2014/COCO_train2014_000000555473.jpg , Are these people walking on the water ? , no
+./train2014/COCO_train2014_000000555473.jpg , What is the website being advertised ? , windfornellscom
+./train2014/COCO_train2014_000000555473.jpg , Is everyone wearing life jackets ? , yes
+./train2014/COCO_train2014_000000303703.jpg , Is the refrigerator open ? , no
+./train2014/COCO_train2014_000000303703.jpg , What is the orange bowl carrying ? , oranges, lemons & limes
+./train2014/COCO_train2014_000000303703.jpg , What is in the pitcher ? , flowers
+./train2014/COCO_train2014_000000233647.jpg , Are they trained elephants ? , yes
+./train2014/COCO_train2014_000000233647.jpg , How many elephants are in the scene ? , 3
+./train2014/COCO_train2014_000000233647.jpg , Are this circus elephants ? , yes
+./train2014/COCO_train2014_000000163818.jpg , Are there any bananas ? , yes
+./train2014/COCO_train2014_000000163818.jpg , What are the different kind of fruits there ? , unknown
+./train2014/COCO_train2014_000000163818.jpg , What place is this ? , kiosk
+./train2014/COCO_train2014_000000020857.jpg , What is the main color of this pic ? , yellow
+./train2014/COCO_train2014_000000020857.jpg , Is there anything edible ? , yes
+./train2014/COCO_train2014_000000020857.jpg , What kind of food is shown ? , banana, mais and peach
+./train2014/COCO_train2014_000000501647.jpg , What color is the players shirt ? , blue
+./train2014/COCO_train2014_000000501647.jpg , What color is the batting helmet ? , blue
+./train2014/COCO_train2014_000000501647.jpg , How many shoes are visible ? , 5
+./train2014/COCO_train2014_000000119618.jpg , Is this an American license plate ? , no
+./train2014/COCO_train2014_000000119618.jpg , Is it raining in this photo ? , yes
+./train2014/COCO_train2014_000000119618.jpg , Does the umbrella make this look like a clown car ? , yes
+./train2014/COCO_train2014_000000522820.jpg , Where is this plane going ? , beluga
+./train2014/COCO_train2014_000000522820.jpg , What does it say on the plane ? , beluga airbus
+./train2014/COCO_train2014_000000522820.jpg , Is this an American plane ? , no
+./train2014/COCO_train2014_000000367259.jpg , Are the children related ? , yes
+./train2014/COCO_train2014_000000367259.jpg , What color is the umbrella ? , blue
+./train2014/COCO_train2014_000000367259.jpg , What color is the table ? , brown
+./train2014/COCO_train2014_000000164655.jpg , How many police vehicle do you see ? , 2
+./train2014/COCO_train2014_000000164655.jpg , Is this the police ? , yes
+./train2014/COCO_train2014_000000164655.jpg , What happened in this picture ? , unknown
+./train2014/COCO_train2014_000000249727.jpg , Do the ladies have the same food to eat ? , yes
+./train2014/COCO_train2014_000000249727.jpg , Is the woman on the right wearing a necklace ? , yes
+./train2014/COCO_train2014_000000249727.jpg , What is on the plates ? , doughnuts
+./train2014/COCO_train2014_000000535768.jpg , Is the boy asleep ? , no
+./train2014/COCO_train2014_000000535768.jpg , Is the boy smiling ? , no
+./train2014/COCO_train2014_000000535768.jpg , Are there toys on the bed ? , yes
+./train2014/COCO_train2014_000000318845.jpg , What are the children in the back of ? , pickup truck
+./train2014/COCO_train2014_000000318845.jpg , Who is driving the truck ? , driver
+./train2014/COCO_train2014_000000318845.jpg , Does this truck have flat tires ? , no
+./train2014/COCO_train2014_000000271586.jpg , Is this vehicle upside down ? , yes
+./train2014/COCO_train2014_000000271586.jpg , Is this a fighter jet ? , yes
+./train2014/COCO_train2014_000000271586.jpg , Is it white or black ? , white
+./train2014/COCO_train2014_000000528992.jpg , What is on the board ? , sandwich
+./train2014/COCO_train2014_000000528992.jpg , Are these bananas ? , no
+./train2014/COCO_train2014_000000528992.jpg , What is under the bread ? , not sure
+./train2014/COCO_train2014_000000540464.jpg , Do monkeys like these ? , yes
+./train2014/COCO_train2014_000000540464.jpg , What food is shown ? , plantains
+./train2014/COCO_train2014_000000540464.jpg , Are these bananas ripe ? , yes
+./train2014/COCO_train2014_000000410312.jpg , How many pieces of footwear do you see in this photo ? , 1
+./train2014/COCO_train2014_000000410312.jpg , What is the child cutting ? , paper
+./train2014/COCO_train2014_000000410312.jpg , Is the child wearing eyeglasses ? , yes
+./train2014/COCO_train2014_000000267289.jpg , Has the batter already his the ball ? , no
+./train2014/COCO_train2014_000000267289.jpg , What business is advertised on the billboard ? , nikon
+./train2014/COCO_train2014_000000267289.jpg , What are they wearing on their feet ? , cleats
+./train2014/COCO_train2014_000000181009.jpg , What type of phone is the person holding ? , cell
+./train2014/COCO_train2014_000000181009.jpg , What color is the railing ? , silver
+./train2014/COCO_train2014_000000181009.jpg , How many phones do they have ? , 2
+./train2014/COCO_train2014_000000080084.jpg , Is there a pot on the stove ? , yes
+./train2014/COCO_train2014_000000080084.jpg , Do the countertops and cabinets match ? , no
+./train2014/COCO_train2014_000000080084.jpg , What does the woman have on her neck ? , scarf
+./train2014/COCO_train2014_000000158307.jpg , What is in the sky besides a bird ? , clouds
+./train2014/COCO_train2014_000000158307.jpg , How many people are on the hill ? , 8
+./train2014/COCO_train2014_000000158307.jpg , Where is the bird ? , in sky
+./train2014/COCO_train2014_000000360475.jpg , What is the fence made out of ? , metal
+./train2014/COCO_train2014_000000360475.jpg , What is the man trying to do ? , hit ball
+./train2014/COCO_train2014_000000360475.jpg , Is the man wearing sunglasses ? , yes
+./train2014/COCO_train2014_000000375665.jpg , What color is the board ? , red
+./train2014/COCO_train2014_000000375665.jpg , Is the water calm ? , yes
+./train2014/COCO_train2014_000000375665.jpg , Is it sunny or rainy ? , sunny
+./train2014/COCO_train2014_000000342259.jpg , What is the pizza on ? , plate
+./train2014/COCO_train2014_000000342259.jpg , What is the person cutting ? , pizza
+./train2014/COCO_train2014_000000342259.jpg , What is the stuff in the bottle for ? , tabasco sauce
+./train2014/COCO_train2014_000000452819.jpg , Are the bikes safe ? , yes
+./train2014/COCO_train2014_000000452819.jpg , Is this a modern picture ? , no
+./train2014/COCO_train2014_000000452819.jpg , How many bikes are there ? , 10
+./train2014/COCO_train2014_000000444173.jpg , Who is sitting on the bench ? , no one
+./train2014/COCO_train2014_000000444173.jpg , What type of filter is used in this picture ? , black and white
+./train2014/COCO_train2014_000000444173.jpg , Is the picture in focus ? , no
+./train2014/COCO_train2014_000000051898.jpg , Is it raining ? , no
+./train2014/COCO_train2014_000000051898.jpg , Are there any people sitting on the bench ? , no
+./train2014/COCO_train2014_000000051898.jpg , What time does the clock on the tower say ? , 10:20
+./train2014/COCO_train2014_000000300542.jpg , What is this man preparing with the ladle ? , food
+./train2014/COCO_train2014_000000300542.jpg , Are there tongs in the photo ? , yes
+./train2014/COCO_train2014_000000300542.jpg , What kind of food is sold at this restaurant ? , american
+./train2014/COCO_train2014_000000194722.jpg , How is the weather ? , foggy
+./train2014/COCO_train2014_000000194722.jpg , Why does the water have white spots ? , waves
+./train2014/COCO_train2014_000000194722.jpg , Is this plane flying to low to the ground and water ? , no
+./train2014/COCO_train2014_000000251454.jpg , Where are the women leaning ? , plane
+./train2014/COCO_train2014_000000251454.jpg , What color are their shirts ? , green
+./train2014/COCO_train2014_000000251454.jpg , Is the plane running ? , no
+./train2014/COCO_train2014_000000329387.jpg , What direction is the plane pointed ? , west
+./train2014/COCO_train2014_000000329387.jpg , What does the side of the plane say ? , qatar
+./train2014/COCO_train2014_000000329387.jpg , How many clouds are visible in this photo ? , 0
+./train2014/COCO_train2014_000000318189.jpg , What make of car is this ? , ford
+./train2014/COCO_train2014_000000318189.jpg , Is this a vintage car ? , yes
+./train2014/COCO_train2014_000000318189.jpg , What color is the surfboard ? , white and fluorescent yellow
+./train2014/COCO_train2014_000000170069.jpg , Are there mountains in the background ? , yes
+./train2014/COCO_train2014_000000170069.jpg , Is there a boat in the picture ? , yes
+./train2014/COCO_train2014_000000170069.jpg , Is there a buoy in the water ? , yes
+./train2014/COCO_train2014_000000016412.jpg , Is the road busy ? , yes
+./train2014/COCO_train2014_000000016412.jpg , Is it raining ? , yes
+./train2014/COCO_train2014_000000016412.jpg , Why are the people running across the street ? , raining
+./train2014/COCO_train2014_000000491111.jpg , What is the pattern on the sheets ? , flower
+./train2014/COCO_train2014_000000491111.jpg , Where are the kids ? , bed
+./train2014/COCO_train2014_000000491111.jpg , Are these girls or boys ? , girls
+./train2014/COCO_train2014_000000408219.jpg , What is on the man's face ? , goggles
+./train2014/COCO_train2014_000000408219.jpg , What color is the snowboard ? , blue
+./train2014/COCO_train2014_000000408219.jpg , What season does this photo represent ? , winter
+./train2014/COCO_train2014_000000310562.jpg , Does it seem that this is happening at a relatively late hour ? , yes
+./train2014/COCO_train2014_000000310562.jpg , Is this likely at someone's house ? , no
+./train2014/COCO_train2014_000000310562.jpg , Are there any windows ? , no
+./train2014/COCO_train2014_000000165018.jpg , Is it a good day for snowboarding ? , yes
+./train2014/COCO_train2014_000000165018.jpg , Can you see tree in the picture ? , yes
+./train2014/COCO_train2014_000000165018.jpg , How many people are on the slope ? , 5
+./train2014/COCO_train2014_000000073302.jpg , What color is the bold man's shirt ? , green
+./train2014/COCO_train2014_000000073302.jpg , Where is this ? , bakery
+./train2014/COCO_train2014_000000073302.jpg , Does this appear to be a butcher shop ? , no
+./train2014/COCO_train2014_000000504321.jpg , What color is the bird near the water ? , white and gray
+./train2014/COCO_train2014_000000504321.jpg , What is in the background ? , boats
+./train2014/COCO_train2014_000000504321.jpg , Is the bird hungry ? , yes
+./train2014/COCO_train2014_000000439809.jpg , Is this a child ? , yes
+./train2014/COCO_train2014_000000439809.jpg , Is there a mountain in this picture ? , yes
+./train2014/COCO_train2014_000000439809.jpg , Is this horse wild ? , no
+./train2014/COCO_train2014_000000014622.jpg , What colors do the cars alternate ? , white and brown
+./train2014/COCO_train2014_000000014622.jpg , Can three trains use these tracks at the same time ? , no
+./train2014/COCO_train2014_000000014622.jpg , Is the train going left or right ? , left
+./train2014/COCO_train2014_000000029075.jpg , Where are the hippos ? , water
+./train2014/COCO_train2014_000000029075.jpg , Are these hippos ? , yes
+./train2014/COCO_train2014_000000029075.jpg , Are these hippos in the water ? , no
+./train2014/COCO_train2014_000000565939.jpg , Is there a dog ? , yes
+./train2014/COCO_train2014_000000565939.jpg , What is the person doing ? , playing with dog
+./train2014/COCO_train2014_000000565939.jpg , What kind of goal is behind the boy ? , soccer
+./train2014/COCO_train2014_000000497327.jpg , What is the main color of the boat ? , white
+./train2014/COCO_train2014_000000497327.jpg , What flag is flown at the end of the boat ? , usa
+./train2014/COCO_train2014_000000497327.jpg , Where is this ? , water
+./train2014/COCO_train2014_000000172507.jpg , Is someone drinking the soda ? , yes
+./train2014/COCO_train2014_000000172507.jpg , Is the sandwich cut in half ? , yes
+./train2014/COCO_train2014_000000172507.jpg , What drink is in the can ? , coca cola
+./train2014/COCO_train2014_000000185436.jpg , What vegetable is on top of the rack ? , avocado
+./train2014/COCO_train2014_000000185436.jpg , What kind of carrots are in the bag ? , baby
+./train2014/COCO_train2014_000000185436.jpg , Is there any meat visible ? , no
+./train2014/COCO_train2014_000000268510.jpg , Is the towel wet ? , yes
+./train2014/COCO_train2014_000000268510.jpg , Is there someone in the mirror ? , yes
+./train2014/COCO_train2014_000000268510.jpg , Is the faucet running ? , no
+./train2014/COCO_train2014_000000568396.jpg , Is there rice in this dish ? , yes
+./train2014/COCO_train2014_000000568396.jpg , Are there onions in the salad ? , yes
+./train2014/COCO_train2014_000000568396.jpg , Can the plate be thrown away ? , yes
+./train2014/COCO_train2014_000000332732.jpg , What does the red and white sign say ? , stop
+./train2014/COCO_train2014_000000332732.jpg , What is on the stop sign ? , graffiti
+./train2014/COCO_train2014_000000332732.jpg , Where the stop sign is fitted ? , on bus
+./train2014/COCO_train2014_000000325710.jpg , What is the person eating ? , pizza
+./train2014/COCO_train2014_000000325710.jpg , What toppings are on the pizza ? , pepperoni
+./train2014/COCO_train2014_000000325710.jpg , How many people ? , 7
+./train2014/COCO_train2014_000000493468.jpg , What sport is being played ? , tennis
+./train2014/COCO_train2014_000000493468.jpg , What is the sex of the player playing the sport ? , male
+./train2014/COCO_train2014_000000493468.jpg , What kind of pants is the person wearing ? , shorts
+./train2014/COCO_train2014_000000428299.jpg , Would the food in the picture be consider healthier than McDonald's Chicken Nuggets ? , yes
+./train2014/COCO_train2014_000000428299.jpg , What is the green food ? , broccoli
+./train2014/COCO_train2014_000000428299.jpg , What color are the stars ? , gold
+./train2014/COCO_train2014_000000055951.jpg , What does the woman have in her hand ? , wine glass
+./train2014/COCO_train2014_000000055951.jpg , Are the women wearing sunglasses ? , yes
+./train2014/COCO_train2014_000000055951.jpg , Are they wearing matching bracelets ? , yes
+./train2014/COCO_train2014_000000349237.jpg , Is the bench full ? , no
+./train2014/COCO_train2014_000000349237.jpg , Is that a modern piece of military equipment ? , no
+./train2014/COCO_train2014_000000349237.jpg , Has the bench been painted recently ? , no
+./train2014/COCO_train2014_000000378028.jpg , How many chairs are in the room ? , 3
+./train2014/COCO_train2014_000000378028.jpg , Are cabinet doors open ? , yes
+./train2014/COCO_train2014_000000378028.jpg , Is the girl facing the camera ? , no
+./train2014/COCO_train2014_000000110393.jpg , Were these pictures taken on the same day ? , yes
+./train2014/COCO_train2014_000000110393.jpg , What age range is this person ? , 12-14
+./train2014/COCO_train2014_000000110393.jpg , Does he have something clipped on his jacket ? , yes
+./train2014/COCO_train2014_000000429614.jpg , Is the mozzarella cheese shredded or buffalo style ? , buffalo style
+./train2014/COCO_train2014_000000429614.jpg , Is that woman angry ? , no
+./train2014/COCO_train2014_000000429614.jpg , Is that going to be delicious ? , yes
+./train2014/COCO_train2014_000000406077.jpg , Does the weather appear to be sunny ? , yes
+./train2014/COCO_train2014_000000406077.jpg , What style of urban painting is on the train car ? , graffiti
+./train2014/COCO_train2014_000000406077.jpg , What are the letters on the train ? , gatx
+./train2014/COCO_train2014_000000224079.jpg , What is the baby holding ? , toothbrush
+./train2014/COCO_train2014_000000224079.jpg , Is the baby wearing a bib ? , yes
+./train2014/COCO_train2014_000000224079.jpg , How many colors are on the bib ? , 4
+./train2014/COCO_train2014_000000229658.jpg , Are these seagulls ? , no
+./train2014/COCO_train2014_000000229658.jpg , What color are the trees ? , green
+./train2014/COCO_train2014_000000229658.jpg , What are the birds doing in this area ? , standing there
+./train2014/COCO_train2014_000000141922.jpg , Has someone been using a lot of bleach on a wearable ? , yes
+./train2014/COCO_train2014_000000141922.jpg , What is hanging around the man's neck ? , lanyard with tag
+./train2014/COCO_train2014_000000141922.jpg , Is there a blue drink on the table ? , yes
+./train2014/COCO_train2014_000000346964.jpg , How many blades of dry grass are there in the field ? , 1000
+./train2014/COCO_train2014_000000346964.jpg , What color is the grass ? , brown
+./train2014/COCO_train2014_000000346964.jpg , How many giraffes are pictured here ? , 6
+./train2014/COCO_train2014_000000255375.jpg , What color is the women's dress ? , black
+./train2014/COCO_train2014_000000255375.jpg , Who is smoking ? , woman
+./train2014/COCO_train2014_000000255375.jpg , What color is the man's shirt ? , blue
+./train2014/COCO_train2014_000000103843.jpg , Is the burrito bigger than the plate ? , yes
+./train2014/COCO_train2014_000000103843.jpg , What type of salsa is in the two white paper cups ? , relish
+./train2014/COCO_train2014_000000103843.jpg , What is this type of food called ? , wrap
+./train2014/COCO_train2014_000000119962.jpg , What is next to the pizza ? , keys
+./train2014/COCO_train2014_000000119962.jpg , Is there meat on the pizza ? , yes
+./train2014/COCO_train2014_000000119962.jpg , Did someone steal a slice of pizza ? , yes
+./train2014/COCO_train2014_000000103166.jpg , What is the boy doing ? , skiing
+./train2014/COCO_train2014_000000103166.jpg , Is the boy's jacket too big for him ? , no
+./train2014/COCO_train2014_000000103166.jpg , Does this person look like a hardened criminal ? , yes
+./train2014/COCO_train2014_000000121365.jpg , What is the boy riding on ? , skateboard
+./train2014/COCO_train2014_000000121365.jpg , What pattern is on his shirt ? , striped
+./train2014/COCO_train2014_000000121365.jpg , Is the person in the bottom of the ramp ? , no
+./train2014/COCO_train2014_000000198546.jpg , Is this a baby elephant ? , no
+./train2014/COCO_train2014_000000198546.jpg , Does the elephant have tusks ? , no
+./train2014/COCO_train2014_000000198546.jpg , What is on the elephants trunk ? , skin
+./train2014/COCO_train2014_000000394303.jpg , Is this dog overweight ? , no
+./train2014/COCO_train2014_000000394303.jpg , Is the dog throwing the frisbee ? , no
+./train2014/COCO_train2014_000000394303.jpg , Is the dog a female ? , yes
+./train2014/COCO_train2014_000000172171.jpg , What color is the vehicle in the picture ? , red
+./train2014/COCO_train2014_000000172171.jpg , Is that snow on the ground ? , yes
+./train2014/COCO_train2014_000000172171.jpg , What kind of vehicle is in the photo ? , bus
+./train2014/COCO_train2014_000000269551.jpg , What is the table made of ? , wood
+./train2014/COCO_train2014_000000269551.jpg , What is this man doing ? , playing on laptop
+./train2014/COCO_train2014_000000269551.jpg , What color is his shirt ? , brown
+./train2014/COCO_train2014_000000338910.jpg , Is it snowing ? , yes
+./train2014/COCO_train2014_000000338910.jpg , What is in the background ? , ski lift
+./train2014/COCO_train2014_000000338910.jpg , Are there any people on the seats in the air ? , yes
+./train2014/COCO_train2014_000000517748.jpg , What kind of fruit is in the foreground ? , grape
+./train2014/COCO_train2014_000000517748.jpg , Are the grapes in a basket ? , no
+./train2014/COCO_train2014_000000517748.jpg , What is out of focus ? , orange, apples, pears
+./train2014/COCO_train2014_000000023702.jpg , Is this a camel ? , no
+./train2014/COCO_train2014_000000023702.jpg , Is that a mountain in the background ? , yes
+./train2014/COCO_train2014_000000023702.jpg , What does the side of the camel say ? , water aid
+./train2014/COCO_train2014_000000469701.jpg , What game system is the person playing ? , wii
+./train2014/COCO_train2014_000000469701.jpg , What color is the sweatshirt ? , blue
+./train2014/COCO_train2014_000000469701.jpg , What do you call the controller the girl is using ? , wiimote
+./train2014/COCO_train2014_000000298427.jpg , What kind of cheese is used in this dish ? , swiss
+./train2014/COCO_train2014_000000298427.jpg , Would a vegetarian eat this meal ? , no
+./train2014/COCO_train2014_000000298427.jpg , What is on the plate ? , food
+./train2014/COCO_train2014_000000531961.jpg , Could she be a he ? , no
+./train2014/COCO_train2014_000000531961.jpg , Is she wearing makeup ? , yes
+./train2014/COCO_train2014_000000531961.jpg , What is the hair across the forehead known as ? , bangs
+./train2014/COCO_train2014_000000467929.jpg , What number is he wearing ? , 3
+./train2014/COCO_train2014_000000467929.jpg , What is the man wearing on his head ? , hat
+./train2014/COCO_train2014_000000467929.jpg , Are the skis on his feet ? , no
+./train2014/COCO_train2014_000000121046.jpg , What is in the pot ? , turkey
+./train2014/COCO_train2014_000000121046.jpg , What holiday is this meal often associated with ? , thanksgiving
+./train2014/COCO_train2014_000000121046.jpg , Is the woman wearing mom jeans ? , yes
+./train2014/COCO_train2014_000000216571.jpg , Is this professional photo ? , yes
+./train2014/COCO_train2014_000000216571.jpg , What number is the jockey in orange wearing ? , 7
+./train2014/COCO_train2014_000000216571.jpg , How many horses are there ? , 2
+./train2014/COCO_train2014_000000301191.jpg , How many crosses can be seen ? , 7
+./train2014/COCO_train2014_000000301191.jpg , Is the sky cloudy ? , no
+./train2014/COCO_train2014_000000301191.jpg , What time does it say ? , 3:05
+./train2014/COCO_train2014_000000442542.jpg , Is this greasy ? , no
+./train2014/COCO_train2014_000000442542.jpg , What vegetable is one the plate ? , broccoli
+./train2014/COCO_train2014_000000442542.jpg , What kind of seed is sprinkled on top of the dish ? , sesame
+./train2014/COCO_train2014_000000228226.jpg , What type of plane is this ? , bomber
+./train2014/COCO_train2014_000000228226.jpg , What are below the plane ? , city
+./train2014/COCO_train2014_000000228226.jpg , Is this a military plane ? , yes
+./train2014/COCO_train2014_000000508663.jpg , How many lighting fixtures are in the picture ? , 5
+./train2014/COCO_train2014_000000508663.jpg , Is the room well kept ? , yes
+./train2014/COCO_train2014_000000508663.jpg , How many framed pictures are on the wall ? , 4
+./train2014/COCO_train2014_000000523196.jpg , What establishment is on the right hand side of the street ? , lion
+./train2014/COCO_train2014_000000523196.jpg , How many people walking the sidewalk ? , 2
+./train2014/COCO_train2014_000000523196.jpg , What does the red sign say ? , the lion
+./train2014/COCO_train2014_000000418868.jpg , How many people are shown ? , 2
+./train2014/COCO_train2014_000000418868.jpg , What color is the animal ? , black
+./train2014/COCO_train2014_000000418868.jpg , What gender is the person milking the cow ? , female
+./train2014/COCO_train2014_000000396400.jpg , Is the dog on  leash ? , yes
+./train2014/COCO_train2014_000000396400.jpg , Is this animal happy ? , yes
+./train2014/COCO_train2014_000000396400.jpg , What color is the collar ? , red
+./train2014/COCO_train2014_000000548704.jpg , What is inside the bananas ? , fried banana
+./train2014/COCO_train2014_000000548704.jpg , How many bananas are pictured ? , 4
+./train2014/COCO_train2014_000000548704.jpg , Have the bananas been cooked ? , yes
+./train2014/COCO_train2014_000000019759.jpg , How old are the people in the back ? , 17
+./train2014/COCO_train2014_000000019759.jpg , Is this a modern photo ? , no
+./train2014/COCO_train2014_000000019759.jpg , How many people with ties are visible ? , 2
+./train2014/COCO_train2014_000000041005.jpg , How many clouds are in the sky ? , no
+./train2014/COCO_train2014_000000041005.jpg , Which direction are the skiers looking towards ? , downhill
+./train2014/COCO_train2014_000000041005.jpg , How many skiers are there ? , 4
+./train2014/COCO_train2014_000000569718.jpg , What kind of animal is this ? , giraffe
+./train2014/COCO_train2014_000000569718.jpg , Does this animal have stripes ? , no
+./train2014/COCO_train2014_000000569718.jpg , Is the giraffe running ? , no
+./train2014/COCO_train2014_000000309521.jpg , What type of wood is that bed frame made of ? , oak
+./train2014/COCO_train2014_000000309521.jpg , Is it dark outside ? , no
+./train2014/COCO_train2014_000000309521.jpg , What are covering the windows ? , blinds
+./train2014/COCO_train2014_000000371091.jpg , Might the airplane be preparing for a landing ? , yes
+./train2014/COCO_train2014_000000371091.jpg , Is this Air China plane ? , yes
+./train2014/COCO_train2014_000000371091.jpg , How many wheels are visible ? , 18
+./train2014/COCO_train2014_000000396743.jpg , What is the table made of ? , stone
+./train2014/COCO_train2014_000000396743.jpg , What color is the vase ? , blue
+./train2014/COCO_train2014_000000396743.jpg , What is the vase on ? , table
+./train2014/COCO_train2014_000000159585.jpg , What is this animal eating ? , grass
+./train2014/COCO_train2014_000000159585.jpg , Where is the fence ? , behind animal
+./train2014/COCO_train2014_000000159585.jpg , Is this photo outdoors ? , yes
+./train2014/COCO_train2014_000000540923.jpg , What is the yellow vegetable in the picture ? , potato
+./train2014/COCO_train2014_000000540923.jpg , Is this pizza ? , no
+./train2014/COCO_train2014_000000540923.jpg , What color is the napkin ? , red
+./train2014/COCO_train2014_000000552291.jpg , What are the people doing in this picture ? , eating
+./train2014/COCO_train2014_000000552291.jpg , How many people are under 30 in this picture ? , 0
+./train2014/COCO_train2014_000000552291.jpg , How many people wearing hats ? , 3
+./train2014/COCO_train2014_000000358527.jpg , What color are the flowers ? , red
+./train2014/COCO_train2014_000000358527.jpg , What animal is this ? , zebra
+./train2014/COCO_train2014_000000358527.jpg , What are the lines going across the front of the picture ? , fence
+./train2014/COCO_train2014_000000055580.jpg , What is placed on top of the fireplace ? , vase
+./train2014/COCO_train2014_000000055580.jpg , Why is there wood in the room ? , floor
+./train2014/COCO_train2014_000000055580.jpg , What color are the walls ? , orange
+./train2014/COCO_train2014_000000398535.jpg , Are there any signs prohibiting behavior ? , yes
+./train2014/COCO_train2014_000000398535.jpg , How is the weather ? , warm
+./train2014/COCO_train2014_000000398535.jpg , What are they flying ? , kites
+./train2014/COCO_train2014_000000180641.jpg , Is the dog tired ? , yes
+./train2014/COCO_train2014_000000180641.jpg , What is over the dog's mouth ? , muzzle
+./train2014/COCO_train2014_000000180641.jpg , Why is this dog wearing mouth guard ? , bites
+./train2014/COCO_train2014_000000190580.jpg , Is this cat asleep ? , no
+./train2014/COCO_train2014_000000190580.jpg , What is the sofa made of ? , leather
+./train2014/COCO_train2014_000000190580.jpg , What is that colorful thing underneath the cat ? , toy
+./train2014/COCO_train2014_000000294834.jpg , How many giraffes are sitting ? , 1 giraffe is sitting
+./train2014/COCO_train2014_000000294834.jpg , How many baby giraffes are pictured ? , 1
+./train2014/COCO_train2014_000000294834.jpg , What is on the ground near the standing giraffe ? , rocks
+./train2014/COCO_train2014_000000521366.jpg , What has this couple recently done ? , marry
+./train2014/COCO_train2014_000000521366.jpg , Are two men getting married ? , no
+./train2014/COCO_train2014_000000521366.jpg , What is this event ? , wedding
+./train2014/COCO_train2014_000000002114.jpg , How many boats are visible ? , 4
+./train2014/COCO_train2014_000000002114.jpg , How many umbrellas are in the image ? , 4
+./train2014/COCO_train2014_000000002114.jpg , How many chairs are visible ? , 4
+./train2014/COCO_train2014_000000026780.jpg , Does this look like a group of nerds ? , no
+./train2014/COCO_train2014_000000026780.jpg , What are the people throwing ? , frisbee
+./train2014/COCO_train2014_000000026780.jpg , Are there more men than women in this picture ? , yes
+./train2014/COCO_train2014_000000444350.jpg , Is this a professional event ? , yes
+./train2014/COCO_train2014_000000444350.jpg , What is the man holding ? , frisbee
+./train2014/COCO_train2014_000000444350.jpg , What color shirt is the man wearing ? , blue
+./train2014/COCO_train2014_000000317962.jpg , How many pillows are on the blanket ? , 2
+./train2014/COCO_train2014_000000317962.jpg , What is the object lying on the bed ? , cell phone
+./train2014/COCO_train2014_000000317962.jpg , What color is the mug that's on the nightstand ? , white
+./train2014/COCO_train2014_000000205947.jpg , Is there an empty plate on the table ? , yes
+./train2014/COCO_train2014_000000205947.jpg , Is this a healthy well balanced meal ? , no
+./train2014/COCO_train2014_000000205947.jpg , What tomato-based condiment is usually paired with the side dish shown ? , ketchup
+./train2014/COCO_train2014_000000141554.jpg , What age demographic are these boys ? , indian
+./train2014/COCO_train2014_000000141554.jpg , Are all of the boys wearing backpacks ? , no
+./train2014/COCO_train2014_000000141554.jpg , Are these people black ? , no
+./train2014/COCO_train2014_000000179409.jpg , What room is this ? , bathroom
+./train2014/COCO_train2014_000000179409.jpg , Is it a bathroom ? , yes
+./train2014/COCO_train2014_000000179409.jpg , Which room is this ? , bathroom
+./train2014/COCO_train2014_000000319045.jpg , Should they be worried about sunburn ? , no
+./train2014/COCO_train2014_000000319045.jpg , Is there snow on the ground ? , yes
+./train2014/COCO_train2014_000000319045.jpg , Is it winter ? , yes
+./train2014/COCO_train2014_000000575530.jpg , Which room is this ? , bathroom
+./train2014/COCO_train2014_000000575530.jpg , Has this room been recently cleaned ? , yes
+./train2014/COCO_train2014_000000575530.jpg , Where is the mirror ? , wall
+./train2014/COCO_train2014_000000127391.jpg , What room is this ? , bathroom
+./train2014/COCO_train2014_000000127391.jpg , What is the robe made out of ? , terry cloth
+./train2014/COCO_train2014_000000127391.jpg , Can the robe see its reflection ? , no
+./train2014/COCO_train2014_000000429935.jpg , Are there three people in the photo ? , no
+./train2014/COCO_train2014_000000429935.jpg , Do these people know each other ? , yes
+./train2014/COCO_train2014_000000429935.jpg , What color are the wetsuits ? , black
+./train2014/COCO_train2014_000000132908.jpg , Is this a bus ? , yes
+./train2014/COCO_train2014_000000132908.jpg , How many wheels are on the bus ? , 6
+./train2014/COCO_train2014_000000132908.jpg , Where is the bus parked ? , parking lot
+./train2014/COCO_train2014_000000299433.jpg , What color is this air Canada jet ? , white
+./train2014/COCO_train2014_000000299433.jpg , What color is the sky ? , gray
+./train2014/COCO_train2014_000000299433.jpg , What picture is on the tail of the plane ? , maple leaf
+./train2014/COCO_train2014_000000212863.jpg , What furniture is under the plane ? , chairs table
+./train2014/COCO_train2014_000000212863.jpg , Is the plane in the air ? , no
+./train2014/COCO_train2014_000000212863.jpg , Where is the plane ? , ground
+./train2014/COCO_train2014_000000384888.jpg , What is in the black cup ? , potato salad
+./train2014/COCO_train2014_000000384888.jpg , What is the boy eating ? , ribs
+./train2014/COCO_train2014_000000384888.jpg , Is there a cup of beer ? , yes
+./train2014/COCO_train2014_000000465335.jpg , How many mammals are in the vicinity of the picture ? , 1
+./train2014/COCO_train2014_000000465335.jpg , Are there two dogs in this picture ? , no
+./train2014/COCO_train2014_000000465335.jpg , Is there a human present ? , yes
+./train2014/COCO_train2014_000000308653.jpg , Is this a heavily populated area ? , no
+./train2014/COCO_train2014_000000308653.jpg , How many sheep ? , 14
+./train2014/COCO_train2014_000000308653.jpg , Have the sheep been recently shorn ? , no
+./train2014/COCO_train2014_000000344859.jpg , What is the average height of the waves ? , low
+./train2014/COCO_train2014_000000344859.jpg , Are the surfers' feet wet ? , yes
+./train2014/COCO_train2014_000000344859.jpg , What are the two people doing on the beach ? , surfing
+./train2014/COCO_train2014_000000147520.jpg , What sport are they participating in ? , skiing
+./train2014/COCO_train2014_000000147520.jpg , Is there grass on the ground ? , no
+./train2014/COCO_train2014_000000147520.jpg , Is this the woods ? , yes
+./train2014/COCO_train2014_000000528165.jpg , Are these animal in a barn ? , no
+./train2014/COCO_train2014_000000528165.jpg , Are the animals all the same color ? , no
+./train2014/COCO_train2014_000000528165.jpg , Do these animals eat grass ? , yes
+./train2014/COCO_train2014_000000580781.jpg , Can you guess what this girl is currently entertaining herself with ? , texting
+./train2014/COCO_train2014_000000580781.jpg , What color is the girl's headband ? , pink
+./train2014/COCO_train2014_000000580781.jpg , What snack is sitting in front of the girl ? , candy
+./train2014/COCO_train2014_000000504065.jpg , Are the roads wet ? , yes
+./train2014/COCO_train2014_000000504065.jpg , What color is the first traffic signal ? , red light
+./train2014/COCO_train2014_000000504065.jpg , Why are the lights reflecting on the ground ? , rain
+./train2014/COCO_train2014_000000321679.jpg , Is this a military vehicle ? , no
+./train2014/COCO_train2014_000000321679.jpg , Is it sunny ? , yes
+./train2014/COCO_train2014_000000321679.jpg , What brand of vehicle is in the foreground ? , chevy
+./train2014/COCO_train2014_000000514269.jpg , Is anyone in the bathroom ? , no
+./train2014/COCO_train2014_000000514269.jpg , Is there a mirror on the wall ? , yes
+./train2014/COCO_train2014_000000514269.jpg , What is the sink made out of ? , tile
+./train2014/COCO_train2014_000000184914.jpg , Are the people twins ? , no
+./train2014/COCO_train2014_000000184914.jpg , Is the giraffe attacking the child ? , no
+./train2014/COCO_train2014_000000184914.jpg , How many different types of animals are in the photo ? , 1
+./train2014/COCO_train2014_000000292211.jpg , What is on the child's knees ? , pads
+./train2014/COCO_train2014_000000292211.jpg , Is he protected from injury ? , yes
+./train2014/COCO_train2014_000000292211.jpg , What is this child doing ? , laying down
+./train2014/COCO_train2014_000000057903.jpg , Is there a needle in the picture ? , yes
+./train2014/COCO_train2014_000000057903.jpg , How many pairs of scissors are there ? , 1
+./train2014/COCO_train2014_000000057903.jpg , What is the name of the middle tool ? , file
+./train2014/COCO_train2014_000000116755.jpg , Is the child clean ? , no
+./train2014/COCO_train2014_000000116755.jpg , How many toes are over the edge of the board ? , 5
+./train2014/COCO_train2014_000000116755.jpg , What is the person on ? , skateboard
+./train2014/COCO_train2014_000000090290.jpg , How is the toilet floor ? , clean
+./train2014/COCO_train2014_000000090290.jpg , Is the toilet seat up or down ? , down
+./train2014/COCO_train2014_000000090290.jpg , What color is the tile on the wall ? , blue
+./train2014/COCO_train2014_000000258129.jpg , Is the dog trying to catch the frisbee ? , yes
+./train2014/COCO_train2014_000000258129.jpg , Is there a frisbee on the ground ? , no
+./train2014/COCO_train2014_000000258129.jpg , Is this a park ? , yes
+./train2014/COCO_train2014_000000146849.jpg , Are there big waves to ride ? , no
+./train2014/COCO_train2014_000000146849.jpg , What is the white portion of the photo ? , wave
+./train2014/COCO_train2014_000000146849.jpg , What color is the surfboard ? , blue
+./train2014/COCO_train2014_000000117325.jpg , What color is the person's jacket ? , green
+./train2014/COCO_train2014_000000117325.jpg , Is the person alone ? , yes
+./train2014/COCO_train2014_000000117325.jpg , What is covering the ground ? , dirt
+./train2014/COCO_train2014_000000176736.jpg , Do people have on wetsuits ? , yes
+./train2014/COCO_train2014_000000176736.jpg , How many umbrellas are rainbow ? , 3
+./train2014/COCO_train2014_000000176736.jpg , What color is the board ? , blue
+./train2014/COCO_train2014_000000506130.jpg , Why are people watching the skateboarder ? , doing tricks
+./train2014/COCO_train2014_000000506130.jpg , What color are the skateboarders front wheels ? , yellow
+./train2014/COCO_train2014_000000506130.jpg , Why is there an orange cone behind the skateboarder ? , marks
+./train2014/COCO_train2014_000000351004.jpg , Is the man in motion ? , yes
+./train2014/COCO_train2014_000000351004.jpg , What type of court is this ? , tennis
+./train2014/COCO_train2014_000000351004.jpg , Which direction is the ball traveling ? , up
+./train2014/COCO_train2014_000000107747.jpg , What time is it ? , 2:15
+./train2014/COCO_train2014_000000107747.jpg , How many clocks on the building ? , 1
+./train2014/COCO_train2014_000000107747.jpg , How tall is this building ? , unknown
+./train2014/COCO_train2014_000000093826.jpg , What is the man doing ? , surfing
+./train2014/COCO_train2014_000000093826.jpg , Is he wearing a wetsuit ? , no
+./train2014/COCO_train2014_000000093826.jpg , Can you see both of the man's arms ? , no
+./train2014/COCO_train2014_000000154259.jpg , Who took the picture ? , gary cole
+./train2014/COCO_train2014_000000154259.jpg , Does that dog look lonely ? , yes
+./train2014/COCO_train2014_000000154259.jpg , What color is the wheel ? , black
+./train2014/COCO_train2014_000000155340.jpg , How much does this cat weigh ? , 5 lbs
+./train2014/COCO_train2014_000000155340.jpg , Why is the cup on the cat head ? , for this picture only
+./train2014/COCO_train2014_000000155340.jpg , What is inside the green cup ? , straw
+./train2014/COCO_train2014_000000129568.jpg , Which direction is the ball going ? , towards player
+./train2014/COCO_train2014_000000129568.jpg , What sport is this ? , tennis
+./train2014/COCO_train2014_000000129568.jpg , Is the player on the baseline or service line ? , baseline
+./train2014/COCO_train2014_000000354888.jpg , How many light bulbs are here ? , 8
+./train2014/COCO_train2014_000000354888.jpg , Is this woman looking in a mirror ? , yes
+./train2014/COCO_train2014_000000354888.jpg , What color is the woman's hair ? , blonde
+./train2014/COCO_train2014_000000148144.jpg , Can you make out the people's faces easily ? , no
+./train2014/COCO_train2014_000000148144.jpg , What time was the photo taken ? , late afternoon
+./train2014/COCO_train2014_000000148144.jpg , Is the sun visible in this picture ? , yes
+./train2014/COCO_train2014_000000313873.jpg , How many people are wearing hats ? , 2
+./train2014/COCO_train2014_000000313873.jpg , What are the boys looking at ? , phones
+./train2014/COCO_train2014_000000313873.jpg , How many boys are looking at their cell phones ? , 2
+./train2014/COCO_train2014_000000336634.jpg , How many power outlets can be seen ? , 2
+./train2014/COCO_train2014_000000336634.jpg , Is this a modern sink ? , yes
+./train2014/COCO_train2014_000000336634.jpg , Are there any towels on the rack ? , 0
+./train2014/COCO_train2014_000000256611.jpg , Is someone a true appreciation of technology ? , yes
+./train2014/COCO_train2014_000000256611.jpg , If the power went out, where would you still be able to write notes ? , address book
+./train2014/COCO_train2014_000000256611.jpg , Why isn't the mouse plugged ? , wireless
+./train2014/COCO_train2014_000000046013.jpg , What room is this ? , kitchen
+./train2014/COCO_train2014_000000046013.jpg , What color is the tie ? , blue
+./train2014/COCO_train2014_000000046013.jpg , Is this the proper shirt to wear with a tie ? , no
+./train2014/COCO_train2014_000000166354.jpg , How many people are surfing ? , 1
+./train2014/COCO_train2014_000000166354.jpg , Are there waves in the picture ? , yes
+./train2014/COCO_train2014_000000166354.jpg , Do you see a sea creature in the background ? , yes
+./train2014/COCO_train2014_000000451690.jpg , What does her shirt say ? , hotel
+./train2014/COCO_train2014_000000451690.jpg , What is the child holding ? , wii remotes
+./train2014/COCO_train2014_000000451690.jpg , Is the child wearing a bib ? , yes
+./train2014/COCO_train2014_000000254101.jpg , Why isn't someone getting rid of all this junk ? , hoarders
+./train2014/COCO_train2014_000000254101.jpg , What kind of structure is that ? , building
+./train2014/COCO_train2014_000000254101.jpg , What is the large light green appliance ? , fridge
+./train2014/COCO_train2014_000000144620.jpg , Are they sitting at a park ? , yes
+./train2014/COCO_train2014_000000144620.jpg , What surrounds the two people on the park bench ? , park and trees
+./train2014/COCO_train2014_000000144620.jpg , What does it say on the park bench ? , love story
+./train2014/COCO_train2014_000000178178.jpg , What material is the couch made of ? , velvet
+./train2014/COCO_train2014_000000178178.jpg , Is that a gray tabby ? , no
+./train2014/COCO_train2014_000000178178.jpg , What is beside the chair ? , table
+./train2014/COCO_train2014_000000020742.jpg , Is this woman outside ? , yes
+./train2014/COCO_train2014_000000020742.jpg , Is the woman wearing boots ? , yes
+./train2014/COCO_train2014_000000020742.jpg , What is the woman sitting on ? , bench
+./train2014/COCO_train2014_000000335692.jpg , What is this guy doing ? , eating
+./train2014/COCO_train2014_000000335692.jpg , Is the sandwich homemade ? , yes
+./train2014/COCO_train2014_000000335692.jpg , Does the guy have beards ? , yes
+./train2014/COCO_train2014_000000198706.jpg , How many zebras are there ? , 3
+./train2014/COCO_train2014_000000198706.jpg , Where are the zebras ? , below
+./train2014/COCO_train2014_000000198706.jpg , Are there people here ? , no
+./train2014/COCO_train2014_000000251591.jpg , What color is the hose ? , white
+./train2014/COCO_train2014_000000251591.jpg , What color is the hydrant ? , red
+./train2014/COCO_train2014_000000251591.jpg , Is the hydrant spraying out water ? , no
+./train2014/COCO_train2014_000000519832.jpg , How many cups of coffee do you see ? , 2
+./train2014/COCO_train2014_000000519832.jpg , Is a man waiting for his breakfast ? , yes
+./train2014/COCO_train2014_000000519832.jpg , Does the donut on the left look sweet ? , yes
+./train2014/COCO_train2014_000000339545.jpg , Is this a birthday party ? , yes
+./train2014/COCO_train2014_000000339545.jpg , Are there a lot of people ? , yes
+./train2014/COCO_train2014_000000339545.jpg , How many women are attending this party ? , 2
+./train2014/COCO_train2014_000000024428.jpg , Why would the man put bananas in his suit ? , comedy
+./train2014/COCO_train2014_000000024428.jpg , What kind of hat is the man wearing ? , cowboy
+./train2014/COCO_train2014_000000024428.jpg , What fruit is shown here ? , banana
+./train2014/COCO_train2014_000000140633.jpg , What are they eating ? , pizza
+./train2014/COCO_train2014_000000140633.jpg , Is the person wearing a ring ? , yes
+./train2014/COCO_train2014_000000140633.jpg , How many slices is she cutting ? , 6
+./train2014/COCO_train2014_000000576859.jpg , Is the metal material making up the clock experiencing some rust ? , yes
+./train2014/COCO_train2014_000000576859.jpg , Does the clock have a second hand ? , yes
+./train2014/COCO_train2014_000000576859.jpg , Is this a square clock ? , yes
+./train2014/COCO_train2014_000000404172.jpg , What color is the cat ? , orange
+./train2014/COCO_train2014_000000404172.jpg , Is this cat happy with its reflection ? , no
+./train2014/COCO_train2014_000000404172.jpg , Is there a mirror ? , yes
+./train2014/COCO_train2014_000000018299.jpg , Did a lot of work go into making this meal ? , no
+./train2014/COCO_train2014_000000018299.jpg , What color is the table ? , brown
+./train2014/COCO_train2014_000000018299.jpg , How many plates are there ? , 5
+./train2014/COCO_train2014_000000410425.jpg , What type of plane is this ? , 4-propeller
+./train2014/COCO_train2014_000000410425.jpg , What color is the tip of this plane ? , yellow
+./train2014/COCO_train2014_000000410425.jpg , Is this plane leaving a trail of smoke ? , yes
+./train2014/COCO_train2014_000000497498.jpg , What race is the child ? , asian
+./train2014/COCO_train2014_000000497498.jpg , What is the child holding ? , vegetable
+./train2014/COCO_train2014_000000497498.jpg , Is the child outside ? , yes
+./train2014/COCO_train2014_000000070985.jpg , What is the color of the men's shorts ? , orange
+./train2014/COCO_train2014_000000070985.jpg , Is the man wearing shoes ? , no
+./train2014/COCO_train2014_000000070985.jpg , Why is the pink object the most blurred ? , in motion
+./train2014/COCO_train2014_000000383909.jpg , Is the kite the same colors as the sky ? , yes
+./train2014/COCO_train2014_000000383909.jpg , What season was this picture taken in ? , spring
+./train2014/COCO_train2014_000000383909.jpg , What does the person have on his head ? , hat
+./train2014/COCO_train2014_000000177023.jpg , What is written on the plane ? , pacific southwest
+./train2014/COCO_train2014_000000177023.jpg , Is the photo colored ? , no
+./train2014/COCO_train2014_000000177023.jpg , Was this photo taken in the morning, at noon or at dusk ? , morning
+./train2014/COCO_train2014_000000223293.jpg , Is the bear alive ? , no
+./train2014/COCO_train2014_000000223293.jpg , What kind of bear is pictured ? , panda
+./train2014/COCO_train2014_000000223293.jpg , What's next to the bear ? , trees
+./train2014/COCO_train2014_000000565444.jpg , What brand of motorcycle is that ? , harley
+./train2014/COCO_train2014_000000565444.jpg , Is the man riding ? , motorcycle
+./train2014/COCO_train2014_000000565444.jpg , What objects are in the background ? , house trees
+./train2014/COCO_train2014_000000295804.jpg , What action is this person performing ? , pitching
+./train2014/COCO_train2014_000000295804.jpg , What number is on the person's Jersey ? , 18
+./train2014/COCO_train2014_000000295804.jpg , What is the man doing ? , throwing
+./train2014/COCO_train2014_000000570196.jpg , What color is the dog ? , white
+./train2014/COCO_train2014_000000570196.jpg , What is the dog looking at ? , cows
+./train2014/COCO_train2014_000000570196.jpg , Is the fence broken ? , yes
+./train2014/COCO_train2014_000000486567.jpg , Is there a foam cooler in this picture ? , yes
+./train2014/COCO_train2014_000000486567.jpg , In what language is the writing on the umbrella written ? , chinese
+./train2014/COCO_train2014_000000486567.jpg , How many colors on the umbrellas can you see ? , 4
+./train2014/COCO_train2014_000000351239.jpg , What is she wearing on her head ? , helmet
+./train2014/COCO_train2014_000000351239.jpg , Will she hit the ball ? , yes
+./train2014/COCO_train2014_000000351239.jpg , Why is the woman wearing gloves ? , safety
+./train2014/COCO_train2014_000000033828.jpg , What color is the ribbon on the back of the helmet ? , pink
+./train2014/COCO_train2014_000000033828.jpg , What are the metal pole structures for ? , skiing
+./train2014/COCO_train2014_000000033828.jpg , Do these people like snow ? , yes
+./train2014/COCO_train2014_000000275988.jpg , Does the giraffe appear to have horns on his head ? , yes
+./train2014/COCO_train2014_000000275988.jpg , Is there a tree behind the giraffe ? , yes
+./train2014/COCO_train2014_000000275988.jpg , What color is the giraffe ? , brown
+./train2014/COCO_train2014_000000155306.jpg , How much longer will the bus driver wait for the last passenger ? , 2 minutes
+./train2014/COCO_train2014_000000155306.jpg , Where is this bus going ? , on tour
+./train2014/COCO_train2014_000000155306.jpg , What does the front of the bus say ? , national express
+./train2014/COCO_train2014_000000248674.jpg , Is there a bowl of beans on the plate ? , no
+./train2014/COCO_train2014_000000248674.jpg , Has the sandwich been eaten yet ? , yes
+./train2014/COCO_train2014_000000248674.jpg , Where is the fork ? , tray
+./train2014/COCO_train2014_000000364090.jpg , Is he having fun ? , yes
+./train2014/COCO_train2014_000000364090.jpg , Does the man on the surfboard have a shirt on ? , no
+./train2014/COCO_train2014_000000364090.jpg , What color is the man's surfboard ? , beige
+./train2014/COCO_train2014_000000181896.jpg , Is the bike tied to a pole ? , yes
+./train2014/COCO_train2014_000000181896.jpg , How many tires are on the bicycle ? , 2
+./train2014/COCO_train2014_000000181896.jpg , What is sitting in the window ? , dog
+./train2014/COCO_train2014_000000454915.jpg , How is the monitor attached to the wall ? , bolted
+./train2014/COCO_train2014_000000454915.jpg , Is the monitor on or off ? , off
+./train2014/COCO_train2014_000000454915.jpg , Is the mouse wireless ? , yes
+./train2014/COCO_train2014_000000353427.jpg , Is this a healthy breakfast ? , yes
+./train2014/COCO_train2014_000000353427.jpg , What kind of food is this ? , donut
+./train2014/COCO_train2014_000000353427.jpg , What kind of food is on the plate ? , donut
+./train2014/COCO_train2014_000000331797.jpg , What image is in the shadow ? , gates
+./train2014/COCO_train2014_000000331797.jpg , Is this image in color ? , no
+./train2014/COCO_train2014_000000331797.jpg , What is the man sitting on ? , steps
+./train2014/COCO_train2014_000000062031.jpg , What sport is this picture of ? , ski jumping
+./train2014/COCO_train2014_000000062031.jpg , What are the people wearing red doing ? , watching
+./train2014/COCO_train2014_000000062031.jpg , Who is wearing a helmet ? , skier
+./train2014/COCO_train2014_000000311408.jpg , What utensils are on the bottom right plate ? , fork and knife
+./train2014/COCO_train2014_000000311408.jpg , What are some of the side dishes ? , soup, beans
+./train2014/COCO_train2014_000000311408.jpg , What color is the table ? , brown
+./train2014/COCO_train2014_000000220615.jpg , What color are the wheels ? , black
+./train2014/COCO_train2014_000000220615.jpg , What is this vehicle's purpose ? , street cleaning
+./train2014/COCO_train2014_000000220615.jpg , What does Limpio mean in English ? , clear
+./train2014/COCO_train2014_000000207556.jpg , What is the girl holding in her hands ? , tennis racket
+./train2014/COCO_train2014_000000207556.jpg , What does the girl have on her shirt ? , peace sign
+./train2014/COCO_train2014_000000207556.jpg , Is there a man standing behind the screen ? , yes
+./train2014/COCO_train2014_000000518455.jpg , Are there a lot of red shaped hearts ? , yes
+./train2014/COCO_train2014_000000518455.jpg , What holiday are these toy's related to ? , valentine's day
+./train2014/COCO_train2014_000000518455.jpg , Are there more red or White Bear ? , no
+./train2014/COCO_train2014_000000291410.jpg , What animal can been seen in this picture ? , cat
+./train2014/COCO_train2014_000000291410.jpg , Is this baby waving to someone ? , yes
+./train2014/COCO_train2014_000000291410.jpg , What natural phenomenon looks like this baby's attire ? , rainbow
+./train2014/COCO_train2014_000000506740.jpg , Is this man holding a cat ? , yes
+./train2014/COCO_train2014_000000506740.jpg , What color is the man's hair ? , brown
+./train2014/COCO_train2014_000000506740.jpg , Are the man's hands warm ? , yes
+./train2014/COCO_train2014_000000300321.jpg , Is the baseball player at home plate ? , yes
+./train2014/COCO_train2014_000000300321.jpg , What number of images are on this scene ? , 3
+./train2014/COCO_train2014_000000300321.jpg , What is the name of the team ? , detroit tigers
+./train2014/COCO_train2014_000000377589.jpg , Is this a new cell phone ? , no
+./train2014/COCO_train2014_000000377589.jpg , Are there jeans in the image ? , yes
+./train2014/COCO_train2014_000000377589.jpg , How many people are having a conversation in the scene ? , 2
+./train2014/COCO_train2014_000000040304.jpg , How many computers ? , 6
+./train2014/COCO_train2014_000000040304.jpg , What type of lamp ? , desk
+./train2014/COCO_train2014_000000040304.jpg , Are these all apple computers ? , no
+./train2014/COCO_train2014_000000029817.jpg , How many doors is there in the reflection ? , 2
+./train2014/COCO_train2014_000000029817.jpg , How many facets are in the picture ? , 2
+./train2014/COCO_train2014_000000029817.jpg , What is the color scheme of the bathroom ? , brown and white
+./train2014/COCO_train2014_000000581513.jpg , What electronic device is on the wall ? , tv
+./train2014/COCO_train2014_000000581513.jpg , Are there windows ? , yes
+./train2014/COCO_train2014_000000581513.jpg , Is there a couch ? , no
+./train2014/COCO_train2014_000000410667.jpg , Who is the woman traveling with ? , child
+./train2014/COCO_train2014_000000410667.jpg , What color backpack is the lady carrying ? , red
+./train2014/COCO_train2014_000000410667.jpg , What colors are the train ? , black and red
+./train2014/COCO_train2014_000000524297.jpg , Was this photo taken recently ? , no
+./train2014/COCO_train2014_000000524297.jpg , Judging from the dress, was this taken in a Latin American country ? , yes
+./train2014/COCO_train2014_000000524297.jpg , What colors are shown in this picture ? , black, white
+./train2014/COCO_train2014_000000423097.jpg , IS this room colorful ? , no
+./train2014/COCO_train2014_000000423097.jpg , What room is this ? , bathroom
+./train2014/COCO_train2014_000000423097.jpg , What color is the tile ? , white
+./train2014/COCO_train2014_000000359085.jpg , What has the puppy been doing ? , digging
+./train2014/COCO_train2014_000000359085.jpg , What breed of dog is that ? , beagle
+./train2014/COCO_train2014_000000359085.jpg , What is on the puppy's nose ? , sand
+./train2014/COCO_train2014_000000051176.jpg , Is this bathroom dirty ? , no
+./train2014/COCO_train2014_000000051176.jpg , Is the toilet seat up ? , yes
+./train2014/COCO_train2014_000000051176.jpg , Is there poop in the toilet ? , no
+./train2014/COCO_train2014_000000183939.jpg , Is it sunny or overcast ? , sunny
+./train2014/COCO_train2014_000000183939.jpg , What type of animal is this ? , dog
+./train2014/COCO_train2014_000000183939.jpg , Does this look like a real photo ? , no
+./train2014/COCO_train2014_000000509677.jpg , Are all picnic tables blue ? , no
+./train2014/COCO_train2014_000000509677.jpg , What location is shown ? , beach
+./train2014/COCO_train2014_000000509677.jpg , Are the picnic tables situated on grass or sand ? , sand
+./train2014/COCO_train2014_000000332537.jpg , Was this picture taken in the last 5 years ? , no
+./train2014/COCO_train2014_000000332537.jpg , Is that a bathroom ? , no
+./train2014/COCO_train2014_000000332537.jpg , Is the light turned on ? , no
+./train2014/COCO_train2014_000000237162.jpg , What color is the picture ? , black and white
+./train2014/COCO_train2014_000000237162.jpg , Was this photo taken during WWII ? , no
+./train2014/COCO_train2014_000000237162.jpg , Is he skating on top of a pipe ? , yes
+./train2014/COCO_train2014_000000334110.jpg , What is this person doing ? , flying kite
+./train2014/COCO_train2014_000000334110.jpg , What limbs does the man need to perform the activity ? , arms
+./train2014/COCO_train2014_000000334110.jpg , Is the man closer to the camera than the kite ? , yes
+./train2014/COCO_train2014_000000559651.jpg , What color is the plate ? , green
+./train2014/COCO_train2014_000000559651.jpg , What kind of meat is this ? , pork
+./train2014/COCO_train2014_000000559651.jpg , What type of vegetable is on the plate ? , broccoli
+./train2014/COCO_train2014_000000282354.jpg , What is the girl doing ? , touching elephant's trunk
+./train2014/COCO_train2014_000000282354.jpg , What color is the child's shirt ? , brown
+./train2014/COCO_train2014_000000282354.jpg , What animal is that ? , elephant
+./train2014/COCO_train2014_000000524377.jpg , What is in the cup ? , mayo
+./train2014/COCO_train2014_000000524377.jpg , What are the orange things ? , sweet potatoes
+./train2014/COCO_train2014_000000524377.jpg , Is that bacon from a delicatessen ? , yes
+./train2014/COCO_train2014_000000535804.jpg , Is it a cloudy day or clear day ? , cloudy day
+./train2014/COCO_train2014_000000535804.jpg , What kind of animals can you see ? , cows
+./train2014/COCO_train2014_000000535804.jpg , How many cows are there ? , 2
+./train2014/COCO_train2014_000000329394.jpg , Did the man just hit the tennis ball ? , yes
+./train2014/COCO_train2014_000000329394.jpg , What color are the man's socks ? , white
+./train2014/COCO_train2014_000000329394.jpg , Is the man in motion ? , yes
+./train2014/COCO_train2014_000000333040.jpg , What is this man's name ? , wright
+./train2014/COCO_train2014_000000333040.jpg , Is the man wearing protective gear ? , yes
+./train2014/COCO_train2014_000000333040.jpg , Why is the man wearing a shin guard ? , protection
+./train2014/COCO_train2014_000000126301.jpg , Is she using a battery-operated device ? , yes
+./train2014/COCO_train2014_000000126301.jpg , What is on the ground ? , bag
+./train2014/COCO_train2014_000000126301.jpg , What mode of transportation did she use to get where she is ? , bicycle
+./train2014/COCO_train2014_000000047074.jpg , How many yellow items are in the photo ? , 24
+./train2014/COCO_train2014_000000047074.jpg , What fruits are in the bowl ? , bananas and apples
+./train2014/COCO_train2014_000000047074.jpg , Is there a computer in the kitchen ? , yes
+./train2014/COCO_train2014_000000073647.jpg , Is this man playing indoors ? , no
+./train2014/COCO_train2014_000000073647.jpg , How can you tell the temperature is a bit cool ? , yes
+./train2014/COCO_train2014_000000073647.jpg , What sport is being played ? , tennis
+./train2014/COCO_train2014_000000342374.jpg , How many glasses are on the table ? , 5
+./train2014/COCO_train2014_000000342374.jpg , Are these adults ? , no
+./train2014/COCO_train2014_000000342374.jpg , Do the kids look like they are having fun ? , yes
+./train2014/COCO_train2014_000000550093.jpg , What is she holding ? , socks
+./train2014/COCO_train2014_000000550093.jpg , Where is the little girl ? , bedroom
+./train2014/COCO_train2014_000000550093.jpg , Is the door open ? , no
+./train2014/COCO_train2014_000000067084.jpg , Which player on the field head butted the ball ? , 18
+./train2014/COCO_train2014_000000067084.jpg , What number is on the girl in black ? , 18
+./train2014/COCO_train2014_000000067084.jpg , Are these two girls competing ? , yes
+./train2014/COCO_train2014_000000256308.jpg , What kind of area is this ? , street
+./train2014/COCO_train2014_000000256308.jpg , What color is his jacket ? , red
+./train2014/COCO_train2014_000000256308.jpg , What is the man on the sidewalk doing ? , riding bicycle
+./train2014/COCO_train2014_000000276208.jpg , Is there any plants in the room ? , no
+./train2014/COCO_train2014_000000276208.jpg , What animal do you see ? , cat
+./train2014/COCO_train2014_000000276208.jpg , How many pillows are on the couch ? , 2
+./train2014/COCO_train2014_000000123970.jpg , Where is this cat laying ? , umbrella
+./train2014/COCO_train2014_000000123970.jpg , What color is the cat ? , blonde
+./train2014/COCO_train2014_000000123970.jpg , What color is the fabric ? , blue
+./train2014/COCO_train2014_000000017226.jpg , Do these airplanes have jets or propellers ? , propellers
+./train2014/COCO_train2014_000000017226.jpg , Are these planes flying ? , yes
+./train2014/COCO_train2014_000000017226.jpg , What color are these planes ? , yellow
+./train2014/COCO_train2014_000000050105.jpg , Is there any icing on these treats ? , yes
+./train2014/COCO_train2014_000000050105.jpg , What color is the platter ? , white
+./train2014/COCO_train2014_000000050105.jpg , How many treats are there ? , 12
+./train2014/COCO_train2014_000000466681.jpg , Is this an intersection ? , yes
+./train2014/COCO_train2014_000000466681.jpg , Can you turn right ? , yes
+./train2014/COCO_train2014_000000466681.jpg , Is art present ? , yes
+./train2014/COCO_train2014_000000467332.jpg , Is she sleeping ? , yes
+./train2014/COCO_train2014_000000467332.jpg , What is the logo on the baby's shirt ? , hearts
+./train2014/COCO_train2014_000000467332.jpg , What is the baby holding on her hand ? , teddy bear
+./train2014/COCO_train2014_000000274978.jpg , Is this man walking with a surfboard ? , yes
+./train2014/COCO_train2014_000000274978.jpg , Whose name is on the photo ? , manolo guijarro
+./train2014/COCO_train2014_000000274978.jpg , Is the person wearing a wetsuit ? , yes
+./train2014/COCO_train2014_000000230863.jpg , Are the bleachers full ? , no
+./train2014/COCO_train2014_000000230863.jpg , What sport is being played ? , soccer
+./train2014/COCO_train2014_000000230863.jpg , Are the players running toward's the ball ? , yes
+./train2014/COCO_train2014_000000477579.jpg , What color is the girls outfit ? , pink
+./train2014/COCO_train2014_000000477579.jpg , Is there a cat on this girls shirt ? , yes
+./train2014/COCO_train2014_000000477579.jpg , What food item is the girl eating ? , donut
+./train2014/COCO_train2014_000000475158.jpg , Is this a snowboarder ? , yes
+./train2014/COCO_train2014_000000475158.jpg , How many faces can be seen ? , 1
+./train2014/COCO_train2014_000000475158.jpg , Is he wearing a hat ? , yes
+./train2014/COCO_train2014_000000205724.jpg , What do the signs on the apples indicate ? , price
+./train2014/COCO_train2014_000000205724.jpg , How many colors of apples are there ? , 3
+./train2014/COCO_train2014_000000205724.jpg , What is being sold ? , apple
+./train2014/COCO_train2014_000000279693.jpg , What he did he jump from ? , stairs
+./train2014/COCO_train2014_000000279693.jpg , Where is the bare tree ? , right side
+./train2014/COCO_train2014_000000279693.jpg , Is the surfboard casting a shadow ? , yes
+./train2014/COCO_train2014_000000121047.jpg , Do you have to train for this sport ? , yes
+./train2014/COCO_train2014_000000121047.jpg , What sport is this ? , horsebacking
+./train2014/COCO_train2014_000000121047.jpg , What colors alternate on the railing ? , red and white
+./train2014/COCO_train2014_000000044776.jpg , What is laying on the bed ? , dog
+./train2014/COCO_train2014_000000044776.jpg , Are both pictures of the same animal ? , yes
+./train2014/COCO_train2014_000000044776.jpg , What color is the sheet ? , white
+./train2014/COCO_train2014_000000292752.jpg , How many sailboats are in the picture ? , 2
+./train2014/COCO_train2014_000000292752.jpg , What color is the nearest sailboat ? , white
+./train2014/COCO_train2014_000000292752.jpg , Are the boats moving ? , yes
+./train2014/COCO_train2014_000000303788.jpg , Is this person to lazy to ski ? , no
+./train2014/COCO_train2014_000000303788.jpg , Is the man snowboarding ? , no
+./train2014/COCO_train2014_000000303788.jpg , What is on the ground ? , snow
+./train2014/COCO_train2014_000000347840.jpg , Is this dish suitable for a individual adhering to a vegan diet ? , no
+./train2014/COCO_train2014_000000347840.jpg , Are there olives on this pizza ? , yes
+./train2014/COCO_train2014_000000347840.jpg , Where is the pizza ? , on plate
+./train2014/COCO_train2014_000000333916.jpg , Is the bird flying ? , no
+./train2014/COCO_train2014_000000333916.jpg , What color is the bird's head ? , yellow
+./train2014/COCO_train2014_000000333916.jpg , What color is the background ? , green
+./train2014/COCO_train2014_000000328751.jpg , Is this high speed train ? , yes
+./train2014/COCO_train2014_000000328751.jpg , What is crossing on top of the train station ? , people
+./train2014/COCO_train2014_000000328751.jpg , What track is this train on ? , right
+./train2014/COCO_train2014_000000246636.jpg , How many boats ? , 4
+./train2014/COCO_train2014_000000246636.jpg , What color is the closest women's shirt ? , red
+./train2014/COCO_train2014_000000246636.jpg , Are these canoes overcrowded ? , yes
+./train2014/COCO_train2014_000000405541.jpg , What breed of cat is in the photo ? , siamese
+./train2014/COCO_train2014_000000405541.jpg , What is the cat on ? , towel

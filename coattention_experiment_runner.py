@@ -1,6 +1,6 @@
-from student_code.coattention_net import CoattentionNet
-from student_code.experiment_runner_base import ExperimentRunnerBase
-from student_code.coatt_vqa_dataset import VqaDataset
+from coattention_net import CoattentionNet
+from experiment_runner_base import ExperimentRunnerBase
+from coatt_vqa_dataset import VqaDataset
 import numpy as np
 import torch
 

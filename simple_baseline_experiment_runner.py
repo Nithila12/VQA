@@ -1,6 +1,6 @@
-from student_code.simple_baseline_net import SimpleBaselineNet
-from student_code.experiment_runner_base import ExperimentRunnerBase
-from student_code.vqa_dataset import VqaDataset
+from simple_baseline_net import SimpleBaselineNet
+from experiment_runner_base import ExperimentRunnerBase
+from vqa_dataset import VqaDataset
 import torch
 import numpy as np
 

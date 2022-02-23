@@ -1,6 +1,6 @@
 import argparse
-from student_code.simple_baseline_experiment_runner import SimpleBaselineExperimentRunner
-from student_code.coattention_experiment_runner import CoattentionNetExperimentRunner
+from simple_baseline_experiment_runner import SimpleBaselineExperimentRunner
+from coattention_experiment_runner import CoattentionNetExperimentRunner
 
 
 if __name__ == "__main__":
